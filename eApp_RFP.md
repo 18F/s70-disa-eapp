@@ -63,7 +63,7 @@ CLIN**
 | 0002     | Long-Distance Travel | NTE | $ 15,000            |
 | 0003     | OLM/ODCs             | NTE | $ 10,000            |
 
-**TOTAL BASE PERIOD CLINs: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
+**TOTAL BASE PERIOD CLINs: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 ### 1.2.2   FIRST OPTION PERIOD:
 
@@ -90,7 +90,7 @@ CLIN**
 | 1002     | Long-Distance Travel | NTE | $ 10,000            |
 | 1003     | OLM/ODCs             | NTE | $10,000             |
 
-**TOTAL OPTION PERIOD 1 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
+**TOTAL OPTION PERIOD 1 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 ### 1.2.3   SECOND OPTION PERIOD:
 
@@ -117,12 +117,11 @@ CLIN**
 | 2002     | Long-Distance Travel | NTE | $ 10,000            |
 | 2003     | OLM/ODCs             | NTE | $10,000             |
 
-**TOTAL OPTION PERIOD 2 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
+**TOTAL OPTION PERIOD 2 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**GRAND TOTAL ALL CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
+**GRAND TOTAL ALL CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**<span class="smallcaps">1.3 SECTION 1 - SUPPLIES OR SERVICES AND
-PRICES TABLES</span>**
+## 1.3 SECTION 1 - SUPPLIES OR SERVICES AND PRICES TABLES
 
 ### 1.3.1   INDIRECT/MATERIAL HANDLING RATE
 
@@ -197,12 +196,7 @@ performance of our vetting process across the federal government. A
 90-day commission gathered to address these concerns and develop a
 [<span class="underline">strategy</span>](https://www.opm.gov/news/releases/2016/01/fact-sheet-modernizing-strengthening-the-security-effectiveness-of-federal-background-investigations/).
 
-Amendments to Executive Order
-[<span class="underline">13467</span>](https://www.federalregister.gov/documents/2008/07/02/08-1409/reforming-processes-related-to-suitability-for-government-employment-fitness-for-contractor)
-and
-[<span class="underline">13488</span>](https://www.federalregister.gov/documents/2017/01/23/2017-01623/amending-the-civil-service-rules-executive-order-13488-and-executive-order-13467-to-modernize-the)
-- established the precedent to create two offices to address these
-issues:
+Amendments to Executive Order[<span class="underline">13467</span>](https://www.federalregister.gov/documents/2008/07/02/08-1409/reforming-processes-related-to-suitability-for-government-employment-fitness-for-contractor)and[<span class="underline">13488</span>](https://www.federalregister.gov/documents/2017/01/23/2017-01623/amending-the-civil-service-rules-executive-order-13488-and-executive-order-13467-to-modernize-the) - established the precedent to create two offices to address these issues:
 
   - National Background Investigation Bureau (NBIB) under the Office of
     Personnel Management (OPM) to manage investigation operations.
@@ -286,45 +280,32 @@ a Performance Work Statement that is structured around the following:
 
 **Epics**
 
-> The contractor shall build or adapt the current eApp platform where:
+The contractor shall build or adapt the current eApp platform where:
 
-  - > Each type of NBIB investigation can be initiated for applicants to
-    > complete
+  - Each type of NBIB investigation can be initiated for applicants to complete
 
-  - > New and existing form types, including but not limited to SF-85/P
-    > and OF-306, can be created and dynamically served to applicants
-    > based on configuration and rule sets
+  - New and existing form types, including but not limited to SF-85/P and OF-306, can be created and dynamically served to applicants based on configuration and rule sets
 
-  - > Forms are created, assigned, and tracked for each individual’s
-    > case
+  - Forms are created, assigned, and tracked for each individual’s case
 
-  - > Applicants can correspond with agency personnel to complete form
+  - Applicants can correspond with agency personnel to complete form
 
-  - > Agency review and validation rules are flagged as applicants
-    > complete the form
+  - Agency review and validation rules are flagged as applicants complete the form
 
-  - > Applicants can view, confirm, and/or edit data from prior
-    > applications when they return to renew their clearance
+  - Applicants can view, confirm, and/or edit data from prior applications when they return to renew their clearance
 
-  - > Form data including responses, validations triggered, and
-    > completion progress is logged and shared with other systems for
-    > case management purposes
+  - Form data including responses, validations triggered, and completion progress is logged and shared with other systems for case management purposes
 
-  - > The workflow is intuitive and friendly for expert and novice
-    > users, including: resetting accounts, replying to questions and
-    > understanding the other people and processes involved in getting
-    > their investigation resolved.
+  - The workflow is intuitive and friendly for expert and novice users, including: resetting accounts, replying to questions and understanding the other people and processes involved in getting their investigation resolved.
 
-  - > Users can easily navigate and complete eApp from the most common
-    > desktop and phones platforms as well as screen readers.
+  - Users can easily navigate and complete eApp from the most common desktop and phones platforms as well as screen readers.
 
-  - > Permissions are configurable to allow only those needed to have
-    > access to sensitive data.
+  - Permissions are configurable to allow only those needed to have access to sensitive data.
 
-Note: User stories that may be included as part of this task order are
+**Note:** User stories that may be included as part of this task order are
 included as an attachment.
 
-Note: Additional stories will result from user research, usability
+**Note:** Additional stories will result from user research, usability
 tests, and feedback from real end-users once the system is in
 production. New stories will be discussed as part of sprint planning and
 backlog refinement. The Product Owner may also choose to close stories
@@ -351,13 +332,9 @@ before they are implemented.
 
   - All major functions must be documented inline.
 
-<!-- end list -->
-
   - Code must be stored in a version-controlled, open-source
     repositories supplied by GSA, with all code needed to run the
     application available in those repositories.
-
-<!-- end list -->
 
   - **Security** Securely store all user entered form data  
 
@@ -366,8 +343,6 @@ before they are implemented.
 
   - **Privacy** Access to user’s data is limited and accessible to the
     appropriate users
-
-<!-- end list -->
 
   - **Identity and Access Management** Single access point, but have
     applicant vs. agency responsibilities/roles
@@ -379,8 +354,6 @@ before they are implemented.
   - **Identity and Access Management** Streamlining the process of
     creating a user and their role in the system, possibility to include
     templates or customized components
-
-<!-- end list -->
 
   - **Testing** WCAG/508 compliant tests ongoing throughout development
 
