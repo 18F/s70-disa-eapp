@@ -11,7 +11,7 @@ to complete**
   - Create and save standard, existing forms
 
 **Epic: New form types can be created and dynamically served to
-applicants based on configuration and rule sets **
+applicants based on configuration and rule sets**
 
   - Dynamically create new forms as an agency user initiates an
     applicant’s investigation
