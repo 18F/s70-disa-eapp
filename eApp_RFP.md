@@ -1,47 +1,31 @@
-**REQUEST FOR QUOTE (RFQ)**
+## REQUEST FOR QUOTE (RFQ)
 
-***National Background Investigation System (NBIS) Electronic
-Questionnaires for Investigations Process (eQip) Replacement***
+### National Background Investigation System (NBIS) Electronic Questionnaires for Investigations Process (eQip) Replacement</br>
+### _in support of:_</br>
+### Technology Transformation Services (TTS)
 
-**in support of:**
+**Issued to:**</br>
+Selected contractors under the General Services Administration (GSA) Schedule 70</br>
+SIN (132-51) Information Technology Professional Services</br>
+The Contractor’s Basic GSA Schedule contract is applicable to the Task</br>
+Order that is awarded under this RFQ</br>
+Conducted under FAR 8.4.</br>
 
-***Technology Transformation Services (TTS)***
+**Issued by:**</br>
+General Services Administration</br>
+National Capital Region</br>
+7<sup>th</sup> Street SW</br>
+Washington, D.C. 20410</br>
+August 13, 2018</br>
 
-**Issued to:**
-
-**Selected contractors under the General Services Administration (GSA)
-Schedule *70***
-
-**SIN *(132-51) Information Technology Professional Services***
-
-**The Contractor’s Basic GSA Schedule contract is applicable to the Task
-Order that is awarded under this RFQ**
-
-**Conducted under FAR 8.4.**
-
-**Issued by:**
-
-**General Services Administration**
-
-**National Capital Region**
-
-**7<sup>th</sup> Street SW**
-
-**Washington, D.C. 20410 **
-
-**August 13, 2018**
-
-**1.1 ORDER TYPE  
-**
-
+### 1.1 ORDER TYPE  
 The contractor shall perform the effort required by this Task Order (TO)
 on a Labor Hour (LH) basis. The work shall be performed in accordance
 with all Sections of this TO and the offeror’s General Services
 Administration (GSA) Multiple Award Schedule (MAS), under which the
 resulting TO will be placed.
 
-**1.2 SERVICES AND PRICES**
-
+### 1.2 SERVICES AND PRICES
 Long-distance travel is defined as travel over 50 miles from Washington,
 DC. Local travel will not be reimbursed.
 
@@ -55,8 +39,7 @@ The following abbreviations are used in this price schedule:
 | OLM  | Order Level Materials     |
 | QTY  | Quantity                  |
 
-**1.2.1   BASE PERIOD:**
-
+### 1.2.1   BASE PERIOD:
 **LABOR HOUR
 CLIN**
 
