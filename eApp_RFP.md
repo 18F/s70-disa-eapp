@@ -196,7 +196,7 @@ performance of our vetting process across the federal government. A
 90-day commission gathered to address these concerns and develop a
 [<span class="underline">strategy</span>](https://www.opm.gov/news/releases/2016/01/fact-sheet-modernizing-strengthening-the-security-effectiveness-of-federal-background-investigations/).
 
-Amendments to Executive Order[<span class="underline">13467</span>](https://www.federalregister.gov/documents/2008/07/02/08-1409/reforming-processes-related-to-suitability-for-government-employment-fitness-for-contractor)and[<span class="underline">13488</span>](https://www.federalregister.gov/documents/2017/01/23/2017-01623/amending-the-civil-service-rules-executive-order-13488-and-executive-order-13467-to-modernize-the) - established the precedent to create two offices to address these issues:
+Amendments to Executive Order [<span class="underline">13467</span>](https://www.federalregister.gov/documents/2008/07/02/08-1409/reforming-processes-related-to-suitability-for-government-employment-fitness-for-contractor) and [<span class="underline">13488</span>](https://www.federalregister.gov/documents/2017/01/23/2017-01623/amending-the-civil-service-rules-executive-order-13488-and-executive-order-13467-to-modernize-the) - established the precedent to create two offices to address these issues:
 
   - National Background Investigation Bureau (NBIB) under the Office of
     Personnel Management (OPM) to manage investigation operations.
@@ -398,7 +398,7 @@ before they are implemented.
   - Application architecture is designed with security as a priority and
     core piece of the development process.
 
-**2.4 DAILY OPERATIONS **
+## 2.4 DAILY OPERATIONS 
 
 The Contractor shall be responsible for daily operations as well as
 coordinating and communicating with the DISA Product Owner and GSA/TTS
@@ -420,8 +420,7 @@ team. Daily operations include:
 
   - Github contributions must be made in the GSA repository
 
-**2.5 C<span class="smallcaps">OORDINATE A PROJECT KICK-OFF
-MEETING</span>**
+## 2.5 COORDINATE A PROJECT KICK-OFF MEETING
 
 The contractor shall schedule and coordinate a Project Kick-Off Meeting
 at the location approved by the Government or virtually within 10 days
@@ -446,7 +445,7 @@ At a minimum, the attendees shall include Key contractor Personnel,
 GSA/TTS team, Contracting Officer Representative and other relevant
 Government personnel.
 
-**2.6 TRANSITION OUT ACTIVITIES**
+## 2.6 TRANSITION OUT ACTIVITIES
 
 The contractor shall provide Transition-Out support when required by the
 Government. The Transition-Out Plan shall facilitate the accomplishment
@@ -460,22 +459,21 @@ In the Transition-Out Plan, the contractor shall identify how it will
 coordinate with the incoming contractor and/or Government personnel to
 transfer knowledge regarding the following:
 
-1.  > Project management processes
+   1. Project management processes
 
-2.  > Points of contact
+   2. Points of contact
 
-3.  > Location of technical and project management documentation
+   3. Location of technical and project management documentation
 
-4.  > Status of ongoing technical initiatives
+   4. Status of ongoing technical initiatives
 
-5.  > Appropriate contractor to contractor coordination to ensure a
-    > seamless transition.
+   5. Appropriate contractor to contractor coordination to ensure a seamless transition.
 
-6.  > Transition of Key Personnel
+   6. Transition of Key Personnel
 
-7.  > Schedules and milestones
+   7. Schedules and milestones
 
-8.  > Actions required of the Government
+   8. Actions required of the Government
 
 The contractor shall also establish and maintain effective communication
 with the incoming contractor/Government personnel for the period of the
@@ -489,13 +487,13 @@ Should the Contractor be terminated prior to the end of the period of
 performance, the Contractor shall transfer all project materials to the
 project repository and TTS within two weeks.
 
-**3.1   PLACE OF INSPECTION AND ACCEPTANCE**
+## 3.1   PLACE OF INSPECTION AND ACCEPTANCE
 
 Inspection and acceptance of all work performance, reports, and other
 deliverables under this TO will be performed by the TTS technical point
 of contact.
 
-**3.2   SCOPE OF INSPECTION**
+## 3.2   SCOPE OF INSPECTION
 
 All deliverables will be inspected for content, completeness, accuracy,
 and conformance to TO requirements by the TTS technical point of
@@ -509,7 +507,7 @@ The Government requires a period NTE 5 work days after receipt of
 deliverable items for inspection and acceptance or rejection on a sprint
 by sprint basis.
 
-**3.3   BASIS OF ACCEPTANCE**
+## 3.3   BASIS OF ACCEPTANCE
 
 The basis for acceptance shall be in compliance with the requirements
 set forth in the TO, the contractor’s quote and relevant terms and
@@ -538,14 +536,14 @@ discrepancies, errors, or other deficiencies identified in writing by
 the Government have been resolved, through documentation updates,
 program correction, or other mutually agreeable methods.
 
-**3.4  WRITTEN ACCEPTANCE/REJECTION BY THE GOVERNMENT **
+## 3.4  WRITTEN ACCEPTANCE/REJECTION BY THE GOVERNMENT 
 
 TTS will provide written notification of acceptance or rejection of all
 final deliverables within 5 workdays (unless specified otherwise in
 Section 4). All notifications of rejection will be accompanied with an
 explanation of the specific deficiencies causing the rejection.
 
-**3.5   NON-CONFORMING PRODUCTS OR SERVICES**
+## 3.5   NON-CONFORMING PRODUCTS OR SERVICES
 
 Non-conforming products or services will be rejected. Deficiencies shall
 be corrected, by the contractor, within 10 workdays of the rejection
@@ -553,30 +551,28 @@ notice. If the deficiencies cannot be corrected within ten workdays, the
 contractor shall immediately notify the COR of the reason for the delay
 and provide a proposed corrective action plan within 10 workdays.
 
-**4.1   PERIOD OF PERFORMANCE**
+## 4.1   PERIOD OF PERFORMANCE
 
 The period of performance for this TO is a six-month base period and two
 (2) three-month option periods.
 
-**4.2   PLACE OF PERFORMANCE**
+## 4.2   PLACE OF PERFORMANCE
 
 Place of performance will be at the Contractor’s facility. In addition,
 the contractor may be required to attend meetings at the Government
 site. Local travel will not be reimbursed. Local travel is defined as
 travel less than 50 miles of the Washington, DC area.
 
-**4.3   TASK ORDER SCHEDULE AND MILESTONE DATES**
+## 4.3   TASK ORDER SCHEDULE AND MILESTONE DATES
 
 The following schedule of milestones will be used by the COR and TTS to
 monitor timely progress under this TO.
 
 The following abbreviations are used in this schedule:
 
-> NLT: No Later Than
-> 
-> TOA: Task Order Award
-> 
-> TBD: To be Determined
+ * NLT: No Later Than
+ * TOA: Task Order Award
+ * TBD: To be Determined
 
 All references to Days: Government Workdays
 
@@ -598,13 +594,13 @@ weekend.
 | Build templates and deployment scripts      | Ongoing with applicable sprint                                                | Code must successfully build and deploy into staging environment and result in a successful build with a single command.   |
 | Draft Transition out plan                   | NLT 4 months after project start date.                                        | Reference requirements in Section 2.6. Presented to government as a catalogue and repository of work completed.            |
 
-**4.4 PLACE(S) OF DELIVERY**
+## 4.4 PLACE(S) OF DELIVERY
 
 Copies of all deliverables shall be delivered to the COR, TPOC, the
 project’s GitHub repository, and/or the NBIS Integration and Test
 Support Lab (NITSL). Detailed instructions will be provided after award.
 
-**4.5   NOTICE REGARDING LATE DELIVERY/ PROBLEM NOTIFICATION **
+## 4.5   NOTICE REGARDING LATE DELIVERY/ PROBLEM NOTIFICATION 
 
 The contractor shall notify the GSA COR as soon as it becomes apparent
 to the contractor that a scheduled delivery will be late. The contractor
@@ -614,7 +610,7 @@ will review the new schedule and provide guidance to the contractor.
 Such notification in no way limits any Government contractual rights or
 remedies including, but not limited to, termination.
 
-**5.1 CONTRACTING OFFICER’S REPRESENTATIVE (COR)**
+## 5.1 CONTRACTING OFFICER’S REPRESENTATIVE (COR)
 
 The Contracting Officer will appoint a COR in writing through a COR
 Letter of Appointment that will be provided to the contractor upon
@@ -626,7 +622,7 @@ terms and conditions, scope, schedule, and price of the TO. Changes in
 the scope of work will be made only by the CO by properly executed
 modifications to the contract.
 
-#  **5.2 TASK ORDER CPARS**
+## 5.2 TASK ORDER CPARS
 
 The TO performance will be evaluated and captured through the CPARS
 module (located at
@@ -640,30 +636,21 @@ information. Copies of the evaluations, contractor responses, and review
 comments, if any, will be retained as part of the contract file, and may
 be used by Federal agencies to support future award decisions.
 
-**5.3 CONTRACT ADMINISTRATION**
+## 5.3 CONTRACT ADMINISTRATION
 
-**Contracting Officer:**
+**Contracting Officer:**</br>
+Daniel Miller</br>
+GSA FAS AAS</br>
+301 7th St., SW</br>
+Washington, DC 20407</br>
+Telephone: 703-328-7248</br>
+Email:Daniel.r.miller@gsa.gov</br>
 
-Daniel Miller
+**Contracting Officer’s Representative:**</br>
+Provided after Award</br>
 
-GSA FAS AAS
-
-301 7th St., SW
-
-Washington, DC 20407
-
-Telephone: 703-328-7248
-
-Email:Daniel.r.miller@gsa.gov
-
-**Contracting Officer’s Representative:**
-
-Provided after Award
-
-**Technical Point of Contact:**
-
-Provided after
-Award
+**Technical Point of Contact:**</br>
+Provided after Award</br>
 
 #  **5.4 INVOICE SUBMISSION **
 
