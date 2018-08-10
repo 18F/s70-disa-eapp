@@ -1,31 +1,31 @@
-## REQUEST FOR QUOTE (RFQ)
+# REQUEST FOR QUOTE (RFQ)
 
 ### National Background Investigation System (NBIS) Electronic Questionnaires for Investigations Process (eQip) Replacement</br>
 ### _in support of:_</br>
 ### Technology Transformation Services (TTS)
 
-**Issued to:**</br>
+### **Issued to:**</br>
 Selected contractors under the General Services Administration (GSA) Schedule 70</br>
 SIN (132-51) Information Technology Professional Services</br>
 The Contractor’s Basic GSA Schedule contract is applicable to the Task</br>
 Order that is awarded under this RFQ</br>
 Conducted under FAR 8.4.</br>
 
-**Issued by:**</br>
+### **Issued by:**</br>
 General Services Administration</br>
 National Capital Region</br>
 7<sup>th</sup> Street SW</br>
 Washington, D.C. 20410</br>
 August 13, 2018</br>
 
-### 1.1 ORDER TYPE  
+## 1.1 ORDER TYPE  
 The contractor shall perform the effort required by this Task Order (TO)
 on a Labor Hour (LH) basis. The work shall be performed in accordance
 with all Sections of this TO and the offeror’s General Services
 Administration (GSA) Multiple Award Schedule (MAS), under which the
 resulting TO will be placed.
 
-### 1.2 SERVICES AND PRICES
+## 1.2 SERVICES AND PRICES
 Long-distance travel is defined as travel over 50 miles from Washington,
 DC. Local travel will not be reimbursed.
 
@@ -65,7 +65,7 @@ CLIN**
 
 **TOTAL BASE PERIOD CLINs: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
 
-**1.2.2   FIRST OPTION PERIOD:**
+### 1.2.2   FIRST OPTION PERIOD:
 
 **LABOR HOUR
 CLIN**
@@ -92,7 +92,7 @@ CLIN**
 
 **TOTAL OPTION PERIOD 1 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
 
-**1.2.3   SECOND OPTION PERIOD:**
+### 1.2.3   SECOND OPTION PERIOD:
 
 **LABOR HOUR
 CLIN**
@@ -124,7 +124,7 @@ CLIN**
 **<span class="smallcaps">1.3 SECTION 1 - SUPPLIES OR SERVICES AND
 PRICES TABLES</span>**
 
-**1.3.1   INDIRECT/MATERIAL HANDLING RATE**
+### 1.3.1   INDIRECT/MATERIAL HANDLING RATE
 
 Long-Distance Travel and OLM/ODCs incurred may be burdened with the
 contractor’s indirect/material handling rate in accordance with the
@@ -141,7 +141,7 @@ not prohibit the application of indirect rate(s) on these costs.
 The indirect handling rate over the term of the TO shall not exceed the
 rate specified in the schedule of prices above.
 
-**1.3.2    LABOR MIX AND LEVEL OF EFFORT**
+### 1.3.2    LABOR MIX AND LEVEL OF EFFORT
 
 The labor mix and level of effort specified in the contractor’s quote
 and incorporated into this TO are for estimation purposes. The
@@ -153,7 +153,7 @@ exceeded. Any additional labor categories or increases to total hours or
 increases to ceilings required during performance must be approved by
 the Contracting Officer (CO) and added to the TO by modification.
 
-# **2.1 PURPOSE **
+## 2.1 PURPOSE 
 
 This Statement of Objectives (SOO) describes the goals that GSA expects
 to achieve with regards to expanding eApp to fully replace
@@ -181,7 +181,7 @@ enhancing security and privacy, adding integration points with related
 systems, and adding support for operational, maintenance, and
 sustainment activities.
 
-**2.2 BACKGROUND**
+## 2.2 BACKGROUND
 
 The national security of the United States depends upon a trusted
 workforce. The task before the government, to assess someone’s
@@ -263,7 +263,7 @@ The current version of eApp was built to handle an SF-86 form that would
 support the NBIS initial operating concept of processing Tier 3
 background investigations.
 
-**2.3 OBJECTIVES**
+## 2.3 OBJECTIVES
 
 To fulfill the objectives for performance of this task order, the
 Contractor must expand the platform through functionality and content
