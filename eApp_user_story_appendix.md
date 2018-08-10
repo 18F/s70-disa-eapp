@@ -1,4 +1,4 @@
-**Potential User stories**
+## Potential User stories
 
 **Epic: Each type of NBIB investigation can be initiated for applicants
 to complete**
