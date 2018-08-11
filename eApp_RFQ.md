@@ -42,18 +42,16 @@ The following abbreviations are used in this price schedule:
 | OLM  | Order Level Materials     |
 | QTY  | Quantity                  |
 
-### 1.2.1   BASE PERIOD:
-**LABOR HOUR
-CLIN**
 
-|          |                                                             |                 |                       |
-| -------- | ----------------------------------------------------------- | --------------- | --------------------- |
+### 1.2.1   BASE PERIOD:
+**LABOR HOUR CLIN**
+
 | **CLIN** | **Description**                                             | **Total Hours** | **Total NTE Ceiling** |
+| -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | 0001     | Labor for Electronic Application (eApp) requirements in SOO | 3396            |                       |
 
-|                       |           |                 |
-| --------------------- | --------- | --------------- |
 | **Labor Categories**  | **Hours** | **Hourly Rate** |
+| --------------------- | --------- | --------------- |
 | *Offeror to Populate* |           |                 |
 |                       |           |                 |
 | **TOTAL HOURS**       |           |                 |
@@ -61,9 +59,8 @@ CLIN**
 
 **TRAVEL and OLM/ODC CLINs**
 
-|          |                      |     |                     |
-| -------- | -------------------- | --- | ------------------- |
 | **CLIN** | **Description**      |     | **Total NTE Price** |
+| -------- | -------------------- | --- | ------------------- |
 | 0002     | Long-Distance Travel | NTE | $ 15,000            |
 | 0003     | OLM/ODCs             | NTE | $ 10,000            |
 
@@ -76,15 +73,13 @@ CLIN**
 **LABOR HOUR
 CLIN**
 
-|          |                                                             |                 |                       |
-| -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | **CLIN** | **Description**                                             | **Total Hours** | **Total NTE Ceiling** |
+| -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | 1001     | Labor for Electronic Application (eApp) requirements in SOO | 1998            |                       |
 <br>
 
-|                       |           |                 |
-| --------------------- | --------- | --------------- |
 | **Labor Categories**  | **Hours** | **Hourly Rate** |
+| --------------------- | --------- | --------------- |
 | *Offeror to Populate* |           |                 |
 |                       |           |                 |
 | **TOTAL HOURS**       |           |                 |
@@ -92,9 +87,8 @@ CLIN**
 
 **TRAVEL and ODC CLINs**
 
-|          |                      |     |                     |
-| -------- | -------------------- | --- | ------------------- |
 | **CLIN** | **Description**      |     | **Total NTE Price** |
+| -------- | -------------------- | --- | ------------------- |
 | 1002     | Long-Distance Travel | NTE | $ 10,000            |
 | 1003     | OLM/ODCs             | NTE | $10,000             |
 
@@ -107,15 +101,13 @@ CLIN**
 **LABOR HOUR
 CLIN**
 
-|          |                                                             |                 |                       |
-| -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | **CLIN** | **Description**                                             | **Total Hours** | **Total NTE Ceiling** |
+| -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | 2001     | Labor for Electronic Application (eApp) requirements in SOO | 1998            |                       |
 <br>
 
-|                        |           |                 |
-| ---------------------- | --------- | --------------- |
 | **Labor Categories**   | **Hours** | **Hourly Rate** |
+| ---------------------- | --------- | --------------- |
 | *Offeror to Populate * |           |                 |
 |                        |           |                 |
 | **TOTAL HOURS**        |           |                 |
@@ -123,9 +115,8 @@ CLIN**
 
 **TRAVEL and ODC CLINs**
 
-|          |                      |     |                     |
-| -------- | -------------------- | --- | ------------------- |
 | **CLIN** | **Description**      |     | **Total NTE Price** |
+| -------- | -------------------- | --- | ------------------- |
 | 2002     | Long-Distance Travel | NTE | $ 10,000            |
 | 2003     | OLM/ODCs             | NTE | $10,000             |
 
