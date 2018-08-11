@@ -17,6 +17,7 @@ National Capital Region</br>
 7<sup>th</sup> Street SW</br>
 Washington, D.C. 20410</br>
 August 13, 2018</br>
+<br>
 
 ## 1.1 ORDER TYPE  
 The contractor shall perform the effort required by this Task Order (TO)
@@ -24,6 +25,8 @@ on a Labor Hour (LH) basis. The work shall be performed in accordance
 with all Sections of this TO and the offeror’s General Services
 Administration (GSA) Multiple Award Schedule (MAS), under which the
 resulting TO will be placed.
+<br>
+<br>
 
 ## 1.2 SERVICES AND PRICES
 Long-distance travel is defined as travel over 50 miles from Washington,
@@ -64,6 +67,7 @@ CLIN**
 | 0003     | OLM/ODCs             | NTE | $ 10,000            |
 
 **TOTAL BASE PERIOD CLINs: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+<br>
 
 ### 1.2.2   FIRST OPTION PERIOD:
 
@@ -91,6 +95,7 @@ CLIN**
 | 1003     | OLM/ODCs             | NTE | $10,000             |
 
 **TOTAL OPTION PERIOD 1 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+<br>
 
 ### 1.2.3   SECOND OPTION PERIOD:
 
@@ -118,8 +123,11 @@ CLIN**
 | 2003     | OLM/ODCs             | NTE | $10,000             |
 
 **TOTAL OPTION PERIOD 2 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+<br>
 
 **GRAND TOTAL ALL CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+<br>
+<br>
 
 ## 1.3 SECTION 1 - SUPPLIES OR SERVICES AND PRICES TABLES
 
@@ -139,6 +147,8 @@ not prohibit the application of indirect rate(s) on these costs.
 
 The indirect handling rate over the term of the TO shall not exceed the
 rate specified in the schedule of prices above.
+<br>
+<br>
 
 ### 1.3.2    LABOR MIX AND LEVEL OF EFFORT
 
@@ -151,6 +161,8 @@ project, provided the total funded labor cost and total hours are not
 exceeded. Any additional labor categories or increases to total hours or
 increases to ceilings required during performance must be approved by
 the Contracting Officer (CO) and added to the TO by modification.
+<br>
+<br>
 
 ## 2.1 PURPOSE 
 
@@ -179,6 +191,8 @@ characteristics of this work include: maintaining user-centric design,
 enhancing security and privacy, adding integration points with related
 systems, and adding support for operational, maintenance, and
 sustainment activities.
+<br>
+<br>
 
 ## 2.2 BACKGROUND
 
@@ -256,6 +270,8 @@ reasons:
 The current version of eApp was built to handle an SF-86 form that would
 support the NBIS initial operating concept of processing Tier 3
 background investigations.
+<br>
+<br>
 
 ## 2.3 OBJECTIVES
 
@@ -364,6 +380,8 @@ before they are implemented.
 
   - **Testing** More comprehensive, automated GUI test suites with
     additional browser testing, including tablets and mobiles.
+<br>
+<br>
 
 **Process Requirements**
 
@@ -397,6 +415,8 @@ before they are implemented.
 
   - Application architecture is designed with security as a priority and
     core piece of the development process.
+<br>
+<br>
 
 ## 2.4 DAILY OPERATIONS 
 
@@ -419,6 +439,8 @@ team. Daily operations include:
     and backlog refinement
 
   - Github contributions must be made in the GSA repository
+<br>
+<br>
 
 ## 2.5 COORDINATE A PROJECT KICK-OFF MEETING
 
@@ -444,6 +466,8 @@ Discussion topics will include:
 At a minimum, the attendees shall include Key contractor Personnel,
 GSA/TTS team, Contracting Officer Representative and other relevant
 Government personnel.
+<br>
+<br>
 
 ## 2.6 TRANSITION OUT ACTIVITIES
 
@@ -486,12 +510,16 @@ prior to expiration of the current period of performance.
 Should the Contractor be terminated prior to the end of the period of
 performance, the Contractor shall transfer all project materials to the
 project repository and TTS within two weeks.
+<br>
+<br>
 
 ## 3.1   PLACE OF INSPECTION AND ACCEPTANCE
 
 Inspection and acceptance of all work performance, reports, and other
 deliverables under this TO will be performed by the TTS technical point
 of contact.
+<br>
+<br>
 
 ## 3.2   SCOPE OF INSPECTION
 
@@ -506,6 +534,8 @@ completeness, quality, and adequacy of all deliverables.
 The Government requires a period NTE 5 work days after receipt of
 deliverable items for inspection and acceptance or rejection on a sprint
 by sprint basis.
+<br>
+<br>
 
 ## 3.3   BASIS OF ACCEPTANCE
 
@@ -535,6 +565,8 @@ For IT development, the final acceptance will occur when all
 discrepancies, errors, or other deficiencies identified in writing by
 the Government have been resolved, through documentation updates,
 program correction, or other mutually agreeable methods.
+<br>
+<br>
 
 ## 3.4  WRITTEN ACCEPTANCE/REJECTION BY THE GOVERNMENT 
 
@@ -542,6 +574,8 @@ TTS will provide written notification of acceptance or rejection of all
 final deliverables within 5 workdays (unless specified otherwise in
 Section 4). All notifications of rejection will be accompanied with an
 explanation of the specific deficiencies causing the rejection.
+<br>
+<br>
 
 ## 3.5   NON-CONFORMING PRODUCTS OR SERVICES
 
@@ -550,11 +584,15 @@ be corrected, by the contractor, within 10 workdays of the rejection
 notice. If the deficiencies cannot be corrected within ten workdays, the
 contractor shall immediately notify the COR of the reason for the delay
 and provide a proposed corrective action plan within 10 workdays.
+<br>
+<br>
 
 ## 4.1   PERIOD OF PERFORMANCE
 
 The period of performance for this TO is a six-month base period and two
 (2) three-month option periods.
+<br>
+<br>
 
 ## 4.2   PLACE OF PERFORMANCE
 
@@ -562,6 +600,8 @@ Place of performance will be at the Contractor’s facility. In addition,
 the contractor may be required to attend meetings at the Government
 site. Local travel will not be reimbursed. Local travel is defined as
 travel less than 50 miles of the Washington, DC area.
+<br>
+<br>
 
 ## 4.3   TASK ORDER SCHEDULE AND MILESTONE DATES
 
@@ -593,12 +633,16 @@ weekend.
 | Development product                         | Ongoing with applicable sprint                                                | In-progress development product, accessible on the web via staging server / development server                             |
 | Build templates and deployment scripts      | Ongoing with applicable sprint                                                | Code must successfully build and deploy into staging environment and result in a successful build with a single command.   |
 | Draft Transition out plan                   | NLT 4 months after project start date.                                        | Reference requirements in Section 2.6. Presented to government as a catalogue and repository of work completed.            |
+<br>
+<br>
 
 ## 4.4 PLACE(S) OF DELIVERY
 
 Copies of all deliverables shall be delivered to the COR, TPOC, the
 project’s GitHub repository, and/or the NBIS Integration and Test
 Support Lab (NITSL). Detailed instructions will be provided after award.
+<br>
+<br>
 
 ## 4.5   NOTICE REGARDING LATE DELIVERY/ PROBLEM NOTIFICATION 
 
@@ -609,6 +653,8 @@ the delivery, and the project impact of the late delivery. The GSA COR
 will review the new schedule and provide guidance to the contractor.
 Such notification in no way limits any Government contractual rights or
 remedies including, but not limited to, termination.
+<br>
+<br>
 
 ## 5.1 CONTRACTING OFFICER’S REPRESENTATIVE (COR)
 
@@ -621,6 +667,8 @@ contractor personnel. The COR is not authorized to change any of the
 terms and conditions, scope, schedule, and price of the TO. Changes in
 the scope of work will be made only by the CO by properly executed
 modifications to the contract.
+<br>
+<br>
 
 ## 5.2 TASK ORDER CPARS
 
@@ -635,6 +683,8 @@ days to submit comments, rebutting statements, or additional
 information. Copies of the evaluations, contractor responses, and review
 comments, if any, will be retained as part of the contract file, and may
 be used by Federal agencies to support future award decisions.
+<br>
+<br>
 
 ## 5.3 CONTRACT ADMINISTRATION
 
@@ -651,6 +701,7 @@ Provided after Award</br>
 
 **Technical Point of Contact:**</br>
 Provided after Award</br>
+<br>
 
 ## 5.4 INVOICE SUBMISSION
 The contractor shall submit Requests for Payments in accordance with the format contained in General Services Administration Acquisition Manual (GSAM) 552.232-25, PROMPT PAYMENT (NOV 2009), to be considered proper for payment. 
@@ -663,6 +714,8 @@ Log in using your assigned ID and password, navigate to the order against which 
 The contractor is certifying, by submission of an invoice in the CIS, that the invoice is correct and proper for payment.
 
 If there are any issues submitting an invoice, contact the Assisted Acquisition Services Business Systems (AASBS) Help Desk for support at 877-472-4877 (toll free) or by email at [<span class="underline">AASBS.helpdesk@gsa.gov</span>](mailto:AASBS.helpdesk@gsa.gov).
+<br>
+<br>
 
 ## 5.5 INVOICE REQUIREMENTS
 
@@ -812,12 +865,16 @@ format, are required.
 5.  Cost incurred not billed by CLIN
 
 6.  Remaining balance of each CLIN
+<br>
+<br>
 
 ## 5.6 TASK ORDER (TO) CLOSEOUT
 
 The Government will unilaterally close out the TO no later than six
 years after the end of the TO period of performance if the contractor
 does not provide final DCAA rates by that time.
+<br>
+<br>
 
 ## 6.1 KEY PERSONNEL
 
@@ -909,6 +966,8 @@ a proposed substitute personnel is unacceptable, or that the reduction
 of effort would be so substantial as to impair the successful
 performance of the work under the TO, the contractor may be subject to
 default action.
+<br>
+<br>
 
 ## 6.2 GOVERNMENT-FURNISHED PROPERTY 
 
@@ -927,6 +986,8 @@ Government will provide:
 
   - A DevOps platform for test and integration into the broader NBIS
     System of Systems
+<br>
+<br>
 
 ## 6.3 GOVERNMENT – FURNISHED INFORMATION
 
@@ -939,6 +1000,8 @@ The software languages and infrastructure employed and inferred in the
 current
 [<span class="underline">repository</span>](https://github.com/18F/e-QIP-prototype)
 will remain consistent.
+<br>
+<br>
 
 ## 6.4 INFORMATION ASSURANCE
 
@@ -949,6 +1012,8 @@ remain the sole property of the U.S. Government. Some of these materials
 are protected by the Privacy Act of 1974 (AMENDED) and Title 38.
 Unauthorized disclosure of Privacy Act or Title 38 covered materials is
 a criminal offense.
+<br>
+<br>
 
 ## 6.5 ORGANIZATIONAL CONFLICT OF INTEREST (OCI)
 
@@ -986,6 +1051,8 @@ a criminal offense.
     the best interest of the U.S. to contract with the contractor and
     include the appropriate provisions to avoid, neutralize, mitigate,
     or waive such conflict in the contract awarded
+<br>
+<br>
 
 ## 6.6   SECTION 508 COMPLIANCE REQUIREMENTS
 
@@ -1003,6 +1070,8 @@ information pertaining to Section 508 compliance can be found (e.g.,
 Vendor’s or other exact web page location). The contractor must ensure
 that the list is easily accessible by typical users beginning at time of
 award.
+<br>
+<br>
 
 ## 6.7 APPLICATION SECURITY & DEVELOPMENT STIG
 
@@ -1010,6 +1079,9 @@ Developed code must be free of CAT I and II STIG severity category code
 findings or explicitly deferred by agreement. The code must also meet
 the application security and development STIG – Ver 4, Ref 6
 requirements.
+<br>
+<br>
+
 
 ## 6.9 TRAVEL REGULATIONS
 
@@ -1048,6 +1120,9 @@ Requests for travel approval shall:
 The contractor shall use only the minimum number of travelers and rental
 cars needed to accomplish the task(s). Travel shall be scheduled during
 normal duty hours whenever possible.
+<br>
+<br>
+
 
 ## 6.10   INTELLECTUAL PROPERTY RIGHTS
 
@@ -1056,6 +1131,8 @@ property right that encumbers any deliverable must be disclosed in
 writing on the cover letter that accompanies the delivery. If no such
 disclosures are provided, the data rights provisions in FAR 52.227-14
 apply.
+<br>
+<br>
 
 ## 6.11 DATA RIGHTS
 
@@ -1092,6 +1169,8 @@ guidance is not available, the contractor shall attach or include the
 license within the work itself. Examples of this include code comments
 at the beginning of a file or contained in a license file within a
 software repository.
+<br>
+<br>
 
 ## 7.1   FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998)
 
@@ -1114,6 +1193,9 @@ website:
 | 52.227-14 | Rights in Data                                                                                                                             | MAY 2014 |
 | 52.232-40 | Providing Accelerated Payments to Small Business Subcontractors                                                                            | DEC 2013 |
 | 52.239-1  | Privacy or Security Safeguards                                                                                                             | AUG 1996 |
+<br>
+<br>
+
 
 ## 7.2   FAR CLAUSES INCORPORATED BY FULL TEXT
 
@@ -1145,6 +1227,8 @@ of task order completion.
     options under this clause, shall not exceed 18 months.
 
 (End of clause)
+<br>
+<br>
 
 ## 7.3 GENERAL SERVICES ADMINISTRATION ACQUISITION MANUAL (GSAM) CLAUSES INCORPORATED BY REFERENCE
 
@@ -1162,6 +1246,9 @@ website:
 | 552.232-25 | Prompt Payment                                                                  | NOV 2009 |
 | 552.239-70 | Information Technology Security Plan and Security Authorization                 | JUN 2011 |
 | 552.239-71 | Security Requirements for Unclassified Information Technology Resources         | JAN 2012 |
+<br>
+<br>
+
 
 ## 8.1 LIST OF ATTACHMENTS
 
@@ -1172,6 +1259,9 @@ website:
 | B              | Proposed Quality Assurance Surveillance Plan (QASP) |
 | C              | User Stories                                        |
 | D              | Hyperlinks                                          |
+<br>
+<br>
+
 
 ## 10.1 GENERAL INSTRUCTIONS
 
@@ -1200,28 +1290,31 @@ FAR 52.215-20 Requirements for Certified Cost or Pricing Data and Data
 Other Than Certified Cost or Pricing Data – Alternate IV (OCT 2010)
 
 a) Submission of certified cost or pricing data is not required.
+<br>
+<br>
+
 
 ## 10.2 GENERAL INSTRUCTIONS
 
-a.  The offeror is expected to examine this entire solicitation document
+a. The offeror is expected to examine this entire solicitation document
     including the Contract. Failure to do so will be at the offeror’s
     own risk.
 
-b.  The Government may make award based on initial offers received,
+b. The Government may make award based on initial offers received,
     without discussion of such offers. Quotes shall set forth full,
     accurate, and complete information as required by this solicitation
     package (including Attachments listed in Section 8 – List of
     Attachments). The penalty for making false statements in quotes is
     prescribed in 18 U.S.C. 1001.
 
-c.  An offeror submitting restrictive data will mark it as follows in
+c. An offeror submitting restrictive data will mark it as follows in
     accordance with the FAR 52.215-1, Instructions to Offerors -
     Competitive Acquisition, which is incorporated by reference. Clause
     52.215-1(e) states: “Restriction on disclosure and use of data.
     Offerors that include in their proposals data that they do not want
     disclosed to the public for any purpose, or used by the Government
     except for evaluation purposes, shall – 
-            1)  Mark the title page with the following legend:
+            1) Mark the title page with the following legend:
                     > This proposal includes data that shall not be disclosed outside the
                     Government and shall not be duplicated, used, or disclosed -- in whole
                     or in part -- for any purpose other than to evaluate this quote or
@@ -1234,15 +1327,18 @@ c.  An offeror submitting restrictive data will mark it as follows in
                     contained in this data if it is obtained from another source without
                     restriction. The data subject to the restriction is contained in
                     sheets \[insert numbers or other identification of sheets\]; and
-             2)  Mark each sheet of data it wishes to restrict with the following legend:
+             2) Mark each sheet of data it wishes to restrict with the following legend:
                     > Use or disclosure of data contained on this sheet is subject to the
                     restriction on the title page of this proposal.
 
-d.  The Government assumes no liability for disclosure or use of
+d. The Government assumes no liability for disclosure or use of
     unmarked data and may use or disclose the data for any purpose.
     Unless restricted, information submitted in response to this request
     may become subject to disclosure to the public pursuant to the
     provisions of the Freedom of Information Act (5 U.S.C. 551).
+<br>
+<br>
+
 
 
 ## 10.3 CONTRACTOR SUPPORT DURING TECHNICAL EVALUATION
@@ -1257,6 +1353,8 @@ reports and advise on specific technical, management, and price
 matters and shall not, under any circumstances, be used as evaluators.
 Personnel from this organization have executed non-disclosure
 agreements.
+<br>
+<br>
 
 ## 10.4 SUBMISSION OF OFFERS
 
@@ -1266,6 +1364,9 @@ contain the following:
 1.  Part I – Written Technical Quote
 
 2.  Part II – Written Price Quote
+<br>
+<br>
+
 
 ## 10.5 SUBMISSION OF THE WRITTEN PRICE QUOTE 
 
@@ -1334,6 +1435,8 @@ supporting documentation:
 
 The offeror shall identify the discounts offered by the offeror and/or
 the offeror’s teaming partner(s) or subcontractor(s).
+<br>
+<br>
 
 ## 10.6 SUBMISSION OF THE WRITTEN TECHNICAL QUOTE 
 
@@ -1494,6 +1597,8 @@ The offeror shall discuss the following elements:
     will be achieved.
 
 The response must be limited to 750 words.
+<br>
+<br>
 
 ## 10.7 ORAL INTERVIEW
 
@@ -1520,8 +1625,7 @@ competitive range, conduct discussions, and request quote revisions.
 Offerors will not be able to use or present slides, graphs, charts or
 any other written presentation materials, including handouts.
 
-##### Content
-----
+#### Content
 After introductions, the offeror will be given up to 30 minutes to
 present. The Contracting Officer will strictly enforce this time limit
 on all presentations. The entire session will be documented by the
@@ -1539,23 +1643,20 @@ allocate 10 minutes that will serve to clarify any information that was
 presented. If the Government has no follow-up questions with a
 particular offeror, then this part of the session will not take place.
 
-##### Location
-----
+#### Location
 Oral Presentations will take place via video chat, though audio may be
 substituted as needed. The Government will coordinate and set up the
 meeting space accordingly (providing dial-in information or links using
 a tool such as Zoom or Appear.in).The offeror may **not** record or
 transmit any of the Q\&A session.
 
-##### Date and Time
-----
+#### Date and Time
 The Government will schedule the date and time of the oral presentations
 with each Offeror that progress to Phase 4 of the evaluation process.
 The Government reserves the right to reschedule any Offeror’s oral
 presentations date at the discretion of the contracting officer.
 
-##### Participants
-----
+#### Participants
 Participation in the oral presentations shall include the proposed Key
 Personnel. The Government is most interested in hearing from staff who
 will have a direct role in completing the task. Content presented by any
@@ -1568,8 +1669,7 @@ non-technical personnel may not need to attend. After the presentations,
 Offerors must email the meeting organizers the names of everyone who
 attended.
 
-##### Videotaping and/or Voice Recording
-----
+#### Videotaping and/or Voice Recording
 The Government may elect to videotape and/or voice record the oral
 presentation session at its discretion and is its exclusive right and
 property. The Government will not provide a copy of the videotape or
@@ -1577,6 +1677,8 @@ recordings to the contractor, and the contractor is prohibited from
 making its own recording (in any way or by any method) of the oral
 presentation session. Contractors agree to this when they participate in
 this RFQ.
+<br>
+<br>
 
 ## 10.8 SUBMISSION OF QUESTIONS
 
@@ -1595,6 +1697,8 @@ the cut-off date will not be considered.**
 
 All questions asked in the public GitHub repository will be answered
 promptly in the public GitHub repository.
+<br>
+<br>
 
 ## 10.9 DELIVERY INSTRUCTIONS
 
@@ -1608,6 +1712,8 @@ are enforced. **The written price quote shall be submitted via email to
 
 All responses to the solicitation shall be received by August 27, 2018
 at 1:00 PM EST.
+<br>
+<br>
 
 ## 11.1 METHOD OF AWARD
 
@@ -1641,12 +1747,16 @@ Quotes shall set forth full, accurate, and complete information as
 required by this solicitation package (including Attachments). The
 penalty for making false statements in quotes is prescribed in 18 U.S.C.
 1001.
+<br>
+<br>
 
 ## 11.2 EXPLANATION FOR BASIS OF AWARD
 
 This award will be made under FAR 8.4; formal debriefings will not be
 conducted. In accordance with 8.405-2(d), a brief explanation of the
 basis for the award decision shall be provided upon request.
+<br>
+<br>
 
 ## 11.3 PRICE QUOTE EVALUATION
 
@@ -1669,6 +1779,9 @@ not be included in the total evaluated price; however, it will be
 evaluated to ensure that the option is available for the unilateral
 exercise of the Government should an extension become necessary. The
 offeror shall not propose a price for the six-month extension.
+<br>
+<br>
+
 
 ## 11.4 ORGANIZATIONAL CONFLICT OF INTEREST
 
@@ -1676,11 +1789,16 @@ Tab A will be evaluated to assess whether or not an actual or potential
 OCI exists as defined by FAR Part 9.5. If an actual or potential OCI is
 identified that cannot be mitigated, avoided, or resolved in accordance
 with FAR Part 9.5, that offeror may be ineligible for award.
+<br>
+<br>
+
 
 ## 11.5 CONTRACT REGISTRATION
 
 Any quote received from a contractor not registered in ITSS (Tab B) will
 be rejected and will be ineligible for award.
+<br>
+<br>
 
 ## 11.6 PASS/FAIL ELEMENTS
 
@@ -1700,6 +1818,9 @@ repositories that meet 4 of the 9 conditions.
 
 The Government will reject any quote that does not provide a Section 508
 Compliance Statement.
+<br>
+<br>
+
 
 ## 11.7 TECHNICAL QUOTE EVALUATION 
 
@@ -1755,6 +1876,8 @@ c. Comprehensive – Encompasses all aspects of the approach. Complete.
 
 d. Efficient – Capable of producing results without waste of materials,
 time, or effort.
+<br>
+<br>
 
 ## 11.8 EVALUATION FACTORS
 
