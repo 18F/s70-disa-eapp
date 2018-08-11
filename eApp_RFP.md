@@ -1057,7 +1057,7 @@ writing on the cover letter that accompanies the delivery. If no such
 disclosures are provided, the data rights provisions in FAR 52.227-14
 apply.
 
-## 6.11 DATA RIGHT
+## 6.11 DATA RIGHTS
 
 It is GSA’s intent that any data or deliverable created as a result of
 the work performed under the task order be committed to the public
@@ -1381,7 +1381,7 @@ award, with no further evaluation of the Technical and Price quote
 accomplished by the Government. The offeror shall provide:
 
 #### 10.6.1.1 CORPORATE EXPERIENCE (PASS/FAIL) 
-
+----
 The URLs of two source code repositories must be submitted for
 evaluation. Each repository must be related to work performed by the
 Offeror for an external partner (government or private sector) or open
@@ -1420,7 +1420,7 @@ conditions to pass. The repository:
     release (i.e. no hard-coded passwords).
 
 #### 10.6.1.2 508 COMPLIANCE (PASS/FAIL) 
-
+----
 The offeror’s written quote shall include a statement indicating its
 capability to comply with Section 508 requirements throughout its
 performance of this TO in compliance with Section 6.
@@ -1431,7 +1431,7 @@ Each offeror shall submit all information described in the following
 paragraphs. Page limits are indicated at the end of each factor.
 
 #### 10.6.2.1 FACTOR 1 - KEY PERSONNEL
-
+----
 The offeror shall indicate each Key Person proposed relating the
 specialized experience identified in Section 6.1 of this RFQ and the
 qualifications of the person or persons being proposed as they relate to
@@ -1443,7 +1443,7 @@ be available to begin work on the Project Start date.
 Each response must be limited to 100 words for each key personnel.
 
 #### 10.6.2.2 FACTOR 2 - STAFFING PLAN
-
+----
 The submission shall contain all proposed individuals that will be
 working on this effort. All Key Personnel proposed in the Project
 Staffing Plan must be available to begin work immediately on the Project
@@ -1471,7 +1471,7 @@ Government’s objectives and requirements.
 The response must be limited to 400 words.
 
 #### 10.6.2.3 FACTOR 3 - USABILITY RESEARCH APPROACH
-
+----
 Background investigations in the federal government involve collecting
 personal information amidst a cross-section of global demographics,
 people with varying levels of experience, and confusing questions.
@@ -1502,7 +1502,7 @@ The offeror shall submit the following:
 The response must be limited to 400 words.
 
 #### 10.6.2.4 FACTOR 4 - PERFORMANCE WORK STATEMENT
-
+----
 Offerors should describe their understanding of the performance
 objectives for the requirements (described in full in Section 2). The
 offeror’s proposed Section 2 shall contain all tasks and subtasks in
@@ -1526,60 +1526,13 @@ interested in the informational content of the offeror’s answers rather
 than the particular style or technique used in delivering the answers.
 
 Schedule and Agenda:
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Agenda Item</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Time Allocated</strong></p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Government Provides Questions to Offeror</p>
-</blockquote></td>
-<td><blockquote>
-<p>Approximately 60 Minutes Prior to Oral Presentation (via e-mail)</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Introductions</p>
-</blockquote></td>
-<td><blockquote>
-<p>Approximately 5 Minutes</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Offeror Orals</p>
-</blockquote></td>
-<td><blockquote>
-<p>30 Minutes Maximum</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Break for Offeror &amp; Government Questions</p>
-</blockquote></td>
-<td><blockquote>
-<p>5 Minutes Maximum</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Government Follow-Up Q&amp;A</p>
-<p>(if needed)</p>
-</blockquote></td>
-<td><blockquote>
-<p>10 Minutes Maximum</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+|        Agenda Item        |     Time Allocated                       |
+| -------------- | --------------------------------------------------- |
+| Government Provides Questions to Offeror | Approximately 60 Minutes Prior to Oral Presentation (via e-mail)|
+| Introductions              | Approximately 5 Minutes |
+| Offeror Orals               | 30 minutes maximum |
+| Break for Offeror & Government Questions    | 5 Minutes Maximum |
+| Government Follow-Up Q&A (if needed)             | 10 Minutes Maximum    |
 
 No part of these oral presentations - for example, discussions and
 negotiations - constitutes a procedure in FAR Part 15. For this reason,
@@ -1590,7 +1543,7 @@ Offerors will not be able to use or present slides, graphs, charts or
 any other written presentation materials, including handouts.
 
 ##### Content
-
+----
 After introductions, the offeror will be given up to 30 minutes to
 present. The Contracting Officer will strictly enforce this time limit
 on all presentations. The entire session will be documented by the
@@ -1609,7 +1562,7 @@ presented. If the Government has no follow-up questions with a
 particular offeror, then this part of the session will not take place.
 
 ##### Location
-
+----
 Oral Presentations will take place via video chat, though audio may be
 substituted as needed. The Government will coordinate and set up the
 meeting space accordingly (providing dial-in information or links using
@@ -1617,14 +1570,14 @@ a tool such as Zoom or Appear.in).The offeror may **not** record or
 transmit any of the Q\&A session.
 
 ##### Date and Time
-
+----
 The Government will schedule the date and time of the oral presentations
 with each Offeror that progress to Phase 4 of the evaluation process.
 The Government reserves the right to reschedule any Offeror’s oral
 presentations date at the discretion of the contracting officer.
 
 ##### Participants
-
+----
 Participation in the oral presentations shall include the proposed Key
 Personnel. The Government is most interested in hearing from staff who
 will have a direct role in completing the task. Content presented by any
@@ -1638,7 +1591,7 @@ Offerors must email the meeting organizers the names of everyone who
 attended.
 
 ##### Videotaping and/or Voice Recording
-
+----
 The Government may elect to videotape and/or voice record the oral
 presentation session at its discretion and is its exclusive right and
 property. The Government will not provide a copy of the videotape or
