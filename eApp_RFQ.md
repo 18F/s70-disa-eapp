@@ -389,8 +389,6 @@ before they are implemented.
 
   - **Testing** More comprehensive, automated GUI test suites with
     additional browser testing, including tablets and mobiles.
-<br>
-<br>
 
 **Process Requirements**
 
