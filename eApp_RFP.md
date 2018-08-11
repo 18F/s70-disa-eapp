@@ -652,23 +652,19 @@ Provided after Award</br>
 **Technical Point of Contact:**</br>
 Provided after Award</br>
 
-#  **5.4 INVOICE SUBMISSION **
+## 5.4 INVOICE SUBMISSION
+The contractor shall submit Requests for Payments in accordance with the format contained in General Services Administration Acquisition Manual (GSAM) 552.232-25, PROMPT PAYMENT (NOV 2009), to be considered proper for payment. 
 
-#  The contractor shall submit Requests for Payments in accordance with the format contained in General Services Administration Acquisition Manual (GSAM) 552.232-25, PROMPT PAYMENT (NOV 2009), to be considered proper for payment. 
+The contractor shall submit invoices as follows:
+The contractor shall utilize GSA’s electronic Assisted Services Shared Information System (ASSIST) to submit invoices. The contractor shall manually enter CLIN charges into Central Invoice Services (CIS) in the ASSIST Portal. Summary charges on invoices shall match the charges listed in CIS for all CLINs. The contractor shall submit invoices electronically by logging onto the following link (requires Internet Explorer to access the link): https://portal.fas.gsa.gov
 
-#  The contractor shall submit invoices as follows:
+Log in using your assigned ID and password, navigate to the order against which you want to invoice, click the Invoices and Acceptance Reports link in the left navigator, and then click the Create New Invoice button. By utilizing this method, no paper copy of the invoice shall be submitted to GSA or the GSA Finance Center. The contractor shall provide invoice backup data, as an attachment to the invoice, in accordance with the contract type, including detail such as labor categories, rates, and quantities of labor hours per labor category. The GSA COR may require the contractor to submit a written “hardcopy” invoice with the client’s certification prior to invoice payment. A paper copy of the invoice is required for a credit.
 
-#  The contractor shall utilize GSA’s electronic Assisted Services Shared Information System (ASSIST) to submit invoices. The contractor shall manually enter CLIN charges into Central Invoice Services (CIS) in the ASSIST Portal. Summary charges on invoices shall match the charges listed in CIS for all CLINs. The contractor shall submit invoices electronically by logging onto the following link (requires Internet Explorer to access the link):
+The contractor is certifying, by submission of an invoice in the CIS, that the invoice is correct and proper for payment.
 
-# https://portal.fas.gsa.gov
+If there are any issues submitting an invoice, contact the Assisted Acquisition Services Business Systems (AASBS) Help Desk for support at 877-472-4877 (toll free) or by email at [<span class="underline">AASBS.helpdesk@gsa.gov</span>](mailto:AASBS.helpdesk@gsa.gov).
 
-# Log in using your assigned ID and password, navigate to the order against which you want to invoice, click the Invoices and Acceptance Reports link in the left navigator, and then click the Create New Invoice button. By utilizing this method, no paper copy of the invoice shall be submitted to GSA or the GSA Finance Center. The contractor shall provide invoice backup data, as an attachment to the invoice, in accordance with the contract type, including detail such as labor categories, rates, and quantities of labor hours per labor category. The GSA COR may require the contractor to submit a written “hardcopy” invoice with the client’s certification prior to invoice payment. A paper copy of the invoice is required for a credit.
-
-# The contractor is certifying, by submission of an invoice in the CIS, that the invoice is correct and proper for payment.
-
-# If there are any issues submitting an invoice, contact the Assisted Acquisition Services Business Systems (AASBS) Help Desk for support at 877-472-4877 (toll free) or by email at [<span class="underline">AASBS.helpdesk@gsa.gov</span>](mailto:AASBS.helpdesk@gsa.gov).
-
-#  **5.5 INVOICE REQUIREMENTS**
+## 5.5 INVOICE REQUIREMENTS
 
 A proper invoice shall be submitted monthly and not later than 5 work
 days after acceptance by the Government of the product, service, and/or
@@ -699,17 +695,17 @@ available to the Government upon request.
 In addition to the above information, all invoices must include the
 following:
 
-> 1\. Task Order ID
-> 
-> 2\. Delivery Order Number
-> 
-> 3\. GSA ACT\# for proper identification
-> 
-> 4\. Period of Performance
-> 
-> 5\. Invoice Number
-> 
-> 6\. Client Name and address
+ 1. Task Order ID
+ 
+ 2. Delivery Order Number
+
+ 3. GSA ACT\# for proper identification
+ 
+ 4. Period of Performance
+
+ 5. Invoice Number
+
+ 6. Client Name and address
 
 Failure to include this information may result in the Contractor having
 to resubmit the invoice and delaying payment.
@@ -723,7 +719,7 @@ attached to final invoices. If the Contractor requires an extension of
 the 30-day period, a request with supporting rationale must be received
 by GSA prior to the end of the 30-day period.
 
-# **5.5.1 LABOR HOUR (LH) CLINs**
+### 5.5.1 LABOR HOUR (LH) CLINs
 
 The contractor may invoice monthly on the basis of hours incurred for
 the LH CLINs. The invoice shall include the period of performance
@@ -736,28 +732,28 @@ provide the invoice data in spreadsheet form with the following detailed
 information. The listing shall include separate columns and totals for
 the current invoice period and the project to date.
 
-1\. Employee name (current and past employees).
+1. Employee name (current and past employees).
 
-2\. Employee company.
+2. Employee company.
 
-3\. Employee labor category.
+3. Employee labor category.
 
-4\. Monthly and total cumulative hours worked.
+4. Monthly and total cumulative hours worked.
 
-5\. Corresponding proposed *or* negotiated *(choose one)* TO ceiling
+5. Corresponding proposed *or* negotiated *(choose one)* TO ceiling
 rate.
 
-6\. Hours incurred not billed by CLIN.
+6. Hours incurred not billed by CLIN.
 
-7\. Total Amount Paid (Lump Sum) by CLIN.
+7. Total Amount Paid (Lump Sum) by CLIN.
 
-#  **5.5.2 TRAVEL**
+### 5.5.2 TRAVEL
 
 Contractor costs for travel will be reimbursed at the limits set in the
 following regulations (see FAR 31.205-46):
 
-> 1\. Federal Travel Regulation (FTR) - prescribed by the GSA, for
-> travel in the contiguous United States (U.S.).
+ 1. Federal Travel Regulation (FTR) - prescribed by the GSA, for
+ travel in the contiguous United States (U.S.).
 
 The contractor may invoice monthly on the basis of cost incurred for
 cost of travel comparable with the JTR. The invoice shall include the
@@ -796,7 +792,7 @@ shall include separate columns and totals and include the following:
 
 12. Indirect handling rate.
 
-**5.5.3 OTHER DIRECT COSTS/ORDER LEVEL MATERIALS**
+### 5.5.3 OTHER DIRECT COSTS/ORDER LEVEL MATERIALS
 
 The contractor may invoice monthly on the basis of cost incurred for the
 ODC/OLM CLINs. The invoice shall include the period of performance
@@ -817,13 +813,13 @@ format, are required.
 
 6.  Remaining balance of each CLIN
 
-**5.6 TASK ORDER (TO) CLOSEOUT**
+## 5.6 TASK ORDER (TO) CLOSEOUT
 
 The Government will unilaterally close out the TO no later than six
 years after the end of the TO period of performance if the contractor
 does not provide final DCAA rates by that time.
 
-**6.1   KEY PERSONNEL**
+## 6.1 KEY PERSONNEL
 
 The following are the minimum personnel who shall be designated as
 “Key.” The Government does not intend to dictate the composition of
@@ -840,8 +836,7 @@ of the TO and must be available to begin work on the project start date.
 Key Personnel may be replaced or removed subject to Section 6.1.4 Key
 Personnel Substitution.
 
-**6.1.1 <span class="smallcaps">SOFTWARE DEVELOPMENT ENGINEER/ FRONT-END
-DEVELOPERS (TWO REQUIRED)</span>**
+### 6.1.1 SOFTWARE DEVELOPMENT ENGINEER/ FRONT-END DEVELOPERS (TWO REQUIRED)
 
 It is required that the software development engineers/front-end
 developers have the following skills and knowledge:
@@ -860,7 +855,7 @@ developers have the following skills and knowledge:
     applications using dynamic rules engines or front-end frameworks
     like React
 
-**6.1.2 SOFTWARE DEVELOPMENT ENGINEER/BACK-END DEVELOPER**
+### 6.1.2 SOFTWARE DEVELOPMENT ENGINEER/BACK-END DEVELOPER
 
 It is required that the software development engineer/back-end
 developers have the following skills and knowledge:
@@ -881,7 +876,7 @@ developers have the following skills and knowledge:
 
   - Cloud deployment using tools like Cloud Foundry or Docker Containers
 
-**6.1.3 USER EXPERIENCE DESIGNER/RESEARCHER**
+### 6.1.3 USER EXPERIENCE DESIGNER/RESEARCHER
 
 It is required that the user experience designer/researcher have the
 following skills and knowledge:
@@ -897,7 +892,7 @@ following skills and knowledge:
     compliance, recruitment of users, and translation of end-user
     feedback into additional user stories.
 
-**6.1.4 KEY PERSONNEL SUBSTITUTION**
+### 6.1.4 KEY PERSONNEL SUBSTITUTION
 
 The contractor shall not replace any personnel designated as Key
 Personnel without the written concurrence of the GSA CO. Prior to
@@ -915,7 +910,7 @@ of effort would be so substantial as to impair the successful
 performance of the work under the TO, the contractor may be subject to
 default action.
 
-**6.2 GOVERNMENT-FURNISHED PROPERTY **
+## 6.2 GOVERNMENT-FURNISHED PROPERTY 
 
 In order to assist the contractor in fulfilling the deliverables, the
 Government will provide:
@@ -933,7 +928,7 @@ Government will provide:
   - A DevOps platform for test and integration into the broader NBIS
     System of Systems
 
-**6.3 GOVERNMENT – FURNISHED INFORMATION**
+## 6.3 GOVERNMENT – FURNISHED INFORMATION
 
 Link to current [<span class="underline">public
 repository</span>](https://github.com/18F/e-QIP-prototype) to learn more
@@ -945,7 +940,7 @@ current
 [<span class="underline">repository</span>](https://github.com/18F/e-QIP-prototype)
 will remain consistent.
 
-**6.4 INFORMATION ASSURANCE**
+## 6.4 INFORMATION ASSURANCE
 
 The contractor may have access to sensitive (to include privileged and
 confidential) data, information, and materials of the U.S. Government.
@@ -955,7 +950,7 @@ are protected by the Privacy Act of 1974 (AMENDED) and Title 38.
 Unauthorized disclosure of Privacy Act or Title 38 covered materials is
 a criminal offense.
 
-**6.5 ORGANIZATIONAL CONFLICT OF INTEREST (OCI)**
+## 6.5 ORGANIZATIONAL CONFLICT OF INTEREST (OCI)
 
 1)  If a contractor has performed, is currently performing work, or
     anticipates performing work that creates or represents an actual or
@@ -992,7 +987,7 @@ a criminal offense.
     include the appropriate provisions to avoid, neutralize, mitigate,
     or waive such conflict in the contract awarded
 
-**6.6   SECTION 508 COMPLIANCE REQUIREMENTS**
+## 6.6   SECTION 508 COMPLIANCE REQUIREMENTS
 
 Unless the Government invokes an exemption, all Electronic and
 Information Technology (EIT) products and services provided shall fully
@@ -1009,21 +1004,21 @@ Vendor’s or other exact web page location). The contractor must ensure
 that the list is easily accessible by typical users beginning at time of
 award.
 
-**6.7 APPLICATION SECURITY & DEVELOPMENT STIG**
+## 6.7 APPLICATION SECURITY & DEVELOPMENT STIG
 
 Developed code must be free of CAT I and II STIG severity category code
 findings or explicitly deferred by agreement. The code must also meet
 the application security and development STIG – Ver 4, Ref 6
 requirements.
 
-**6.9 TRAVEL REGULATIONS**
+## 6.9 TRAVEL REGULATIONS
 
 Contractor costs for travel will be reimbursed at the limits set in the
 following regulations (see FAR 31.205-46):
 
 1.  > FTR - prescribed by the GSA, for travel in the contiguous U.S.
 
-**6.9.1 TRAVEL AUTHORIZATION REQUESTS (TAR)**
+### 6.9.1 TRAVEL AUTHORIZATION REQUESTS (TAR)
 
 Before undertaking travel to any Government site or any other site in
 performance of this TO, the contractor shall have this travel approved
@@ -1054,7 +1049,7 @@ The contractor shall use only the minimum number of travelers and rental
 cars needed to accomplish the task(s). Travel shall be scheduled during
 normal duty hours whenever possible.
 
-**6.10   INTELLECTUAL PROPERTY RIGHTS**
+## 6.10   INTELLECTUAL PROPERTY RIGHTS
 
 The existence of any patent, patent application or other intellectual
 property right that encumbers any deliverable must be disclosed in
@@ -1062,7 +1057,7 @@ writing on the cover letter that accompanies the delivery. If no such
 disclosures are provided, the data rights provisions in FAR 52.227-14
 apply.
 
-**<span class="smallcaps">6.11 DATA RIGHT</span>**
+## 6.11 DATA RIGHT
 
 It is GSA’s intent that any data or deliverable created as a result of
 the work performed under the task order be committed to the public
@@ -1098,7 +1093,7 @@ license within the work itself. Examples of this include code comments
 at the beginning of a file or contained in a license file within a
 software repository.
 
-**7.1   FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998)**
+## 7.1   FAR 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998)
 
 This TO incorporates one or more clauses by reference with the same
 force and effect as if they were given in full text. Upon request, the
@@ -1120,9 +1115,9 @@ website:
 | 52.232-40 | Providing Accelerated Payments to Small Business Subcontractors                                                                            | DEC 2013 |
 | 52.239-1  | Privacy or Security Safeguards                                                                                                             | AUG 1996 |
 
-**7.2   FAR CLAUSES INCORPORATED BY FULL TEXT**
+## 7.2   FAR CLAUSES INCORPORATED BY FULL TEXT
 
-**FAR 52.217-8 OPTION TO EXTEND SERVICES (NOV 1999) **
+**FAR 52.217-8 OPTION TO EXTEND SERVICES (NOV 1999)**
 
 The Government may require continued performance of any services within
 the limits and at the rates specified in the contract. These rates may
@@ -1135,7 +1130,7 @@ of task order completion.
 
 (End of clause)
 
-**FAR 52.217-9 OPTION TO EXTEND THE TERM OF THE CONTRACT (MAR 2000) **
+**FAR 52.217-9 OPTION TO EXTEND THE TERM OF THE CONTRACT (MAR 2000)**
 
 1.  The Government may extend the term of this contract by written
     notice to the Contractor within 30 days; provided that the
@@ -1151,8 +1146,7 @@ of task order completion.
 
 (End of clause)
 
-**7.3 GENERAL SERVICES ADMINISTRATION ACQUISITION MANUAL (GSAM) CLAUSES
-INCORPORATED BY REFERENCE**
+## 7.3 GENERAL SERVICES ADMINISTRATION ACQUISITION MANUAL (GSAM) CLAUSES INCORPORATED BY REFERENCE
 
 The full text of a provision may be accessed electronically at the GSAM
 website:
@@ -1169,7 +1163,7 @@ website:
 | 552.239-70 | Information Technology Security Plan and Security Authorization                 | JUN 2011 |
 | 552.239-71 | Security Requirements for Unclassified Information Technology Resources         | JAN 2012 |
 
-**8.1 LIST OF ATTACHMENTS**
+## 8.1 LIST OF ATTACHMENTS
 
 |                |                                                     |
 | -------------- | --------------------------------------------------- |
@@ -1179,11 +1173,10 @@ website:
 | C              | User Stories                                        |
 | D              | Hyperlinks                                          |
 
-**10.1 GENERAL INSTRUCTIONS**
+## 10.1 GENERAL INSTRUCTIONS
 
 **10.1 FAR 52.252-1 SOLICITATION PROVISIONS INCORPORATED BY REFERENCE
 (FEB 1998)**
-
 This solicitation incorporates one or more solicitation provisions by
 reference, with the same force and effect as if they were given in full
 text. Upon request, the GSA CO will make the full text available. The
@@ -1193,9 +1186,7 @@ offer. In lieu of submitting the full text of those provisions, the
 offeror may identify the provision by paragraph identifier and provide
 the appropriate information with its quotation of offer. The
 solicitation provisions and/or contract clauses are available in either
-HTML or PDF format at:
-
-> <https://www.acquisition.gov/far>
+HTML or PDF format at: <https://www.acquisition.gov/far>
 
 <table>
 <tbody>
@@ -1223,14 +1214,14 @@ HTML or PDF format at:
 </tbody>
 </table>
 
-**10.1.1 SOLICITATION PROVISIONS PROVIDED IN FULL TEXT**
+### 10.1.1 SOLICITATION PROVISIONS PROVIDED IN FULL TEXT
 
 FAR 52.215-20 Requirements for Certified Cost or Pricing Data and Data
 Other Than Certified Cost or Pricing Data – Alternate IV (OCT 2010)
 
 > (a) Submission of certified cost or pricing data is not required.
 
-**10.2 GENERAL INSTRUCTIONS**
+## 10.2 GENERAL INSTRUCTIONS
 
 1.  The offeror is expected to examine this entire solicitation document
     including the Contract. Failure to do so will be at the offeror’s
@@ -1249,30 +1240,26 @@ Other Than Certified Cost or Pricing Data – Alternate IV (OCT 2010)
     52.215-1(e) states: “Restriction on disclosure and use of data.
     Offerors that include in their proposals data that they do not want
     disclosed to the public for any purpose, or used by the Government
-    except for evaluation purposes, shall –
-
-<!-- end list -->
-
-1)  Mark the title page with the following legend:
-
-> This proposal includes data that shall not be disclosed outside the
-> Government and shall not be duplicated, used, or disclosed -- in whole
-> or in part -- for any purpose other than to evaluate this quote or
-> quotation. If, however, a contract is awarded to this offeror as a
-> result of -- or in connection with -- the submission of this data, and
-> the Government incorporates the quote as part of the award, the
-> Government shall have the right to duplicate, use, or disclose the
-> data to the extent provided in the resulting contract. This
-> restriction does not limit the Government’s right to use information
-> contained in this data if it is obtained from another source without
-> restriction. The data subject to the restriction is contained in
-> sheets \[insert numbers or other identification of sheets\]; and
+    except for evaluation purposes, shall – 
+    1)  Mark the title page with the following legend:
+    This proposal includes data that shall not be disclosed outside the
+Government and shall not be duplicated, used, or disclosed -- in whole
+or in part -- for any purpose other than to evaluate this quote or
+quotation. If, however, a contract is awarded to this offeror as a
+result of -- or in connection with -- the submission of this data, and
+the Government incorporates the quote as part of the award, the
+Government shall have the right to duplicate, use, or disclose the
+data to the extent provided in the resulting contract. This
+restriction does not limit the Government’s right to use information
+contained in this data if it is obtained from another source without
+restriction. The data subject to the restriction is contained in
+sheets \[insert numbers or other identification of sheets\]; and
 
 2)  Mark each sheet of data it wishes to restrict with the following
     legend:
 
-> Use or disclosure of data contained on this sheet is subject to the
-> restriction on the title page of this proposal.
+Use or disclosure of data contained on this sheet is subject to the
+restriction on the title page of this proposal.
 
 4.  The Government assumes no liability for disclosure or use of
     unmarked data and may use or disclose the data for any purpose.
@@ -1280,21 +1267,21 @@ Other Than Certified Cost or Pricing Data – Alternate IV (OCT 2010)
     may become subject to disclosure to the public pursuant to the
     provisions of the Freedom of Information Act (5 U.S.C. 551).
 
-5.  
-#  **10.3 CONTRACTOR SUPPORT DURING TECHNICAL EVALUATION **
 
-> The government may utilize individual technical consultants/advisors
-> from the below listed organization:
-> 
-> Contracting Resources Group, Inc.
-> 
-> These technical consultants/advisors will only be used to draft
-> reports and advise on specific technical, management, and price
-> matters and shall not, under any circumstances, be used as evaluators.
-> Personnel from this organization have executed non-disclosure
-> agreements.
+## 10.3 CONTRACTOR SUPPORT DURING TECHNICAL EVALUATION
 
-**10.4 SUBMISSION OF OFFERS**
+The government may utilize individual technical consultants/advisors
+from the below listed organization:
+ 
+Contracting Resources Group, Inc.
+ 
+These technical consultants/advisors will only be used to draft
+reports and advise on specific technical, management, and price
+matters and shall not, under any circumstances, be used as evaluators.
+Personnel from this organization have executed non-disclosure
+agreements.
+
+## 10.4 SUBMISSION OF OFFERS
 
 Each offer shall be provided to the Government in two parts and shall
 contain the following:
@@ -1303,7 +1290,7 @@ contain the following:
 
 2.  Part II – Written Price Quote
 
-**10.5 SUBMISSION OF THE WRITTEN PRICE QUOTE **
+## 10.5 SUBMISSION OF THE WRITTEN PRICE QUOTE 
 
 The offeror shall fully support all proposed prices. An offeror’s quote
 is presumed to represent the offeror’s best efforts in response to the
@@ -1313,13 +1300,13 @@ promised performance and price, shall be explained in the quote.
 **The offeror shall not include any price data in Part I, technical
 quote.**
 
-**10.5.1 OCI STATEMENT (TAB A)**
+### 10.5.1 OCI STATEMENT (TAB A)
 
 The offeror and each subcontractor, consultant, teaming partner, and
 individuals involved in quote development shall complete and sign an OCI
 Statement. All information pertaining to OCI is outlined in Section 6.
 
-**10.5.2 CONTRACT REGISTRATION (TAB B)**
+### 10.5.2 CONTRACT REGISTRATION (TAB B)
 
 The offeror shall submit a statement that the contract vehicle under
 which this quote is being submitted has been registered in ASSIST and
@@ -1328,7 +1315,7 @@ visiting the following webpage:
 
 https://portal.fas.gsa.gov/assist-web/registration/contractor/search
 
-**10.5.3 REMAINDER OF WRITTEN PRICE QUOTE **
+### 10.5.3 REMAINDER OF WRITTEN PRICE QUOTE 
 
 1.  Solicitation, Offer and Award (SF1449) (Tab C)
 
@@ -1338,7 +1325,7 @@ https://portal.fas.gsa.gov/assist-web/registration/contractor/search
 
 3.  Price Supporting Documentation (Tab E)
 
-**10.5.4 REQUEST FOR QUOTATIONS (SF 1449) (TAB C)**
+### 10.5.4 REQUEST FOR QUOTATIONS (SF 1449) (TAB C)
 
 When completed and signed by the offeror, Standard Form (SF) 1449,
 “Request for Quotations,” constitutes the offeror’s acceptance of the
@@ -1346,14 +1333,14 @@ terms and conditions of the proposed TO. Therefore, the form must be
 executed by representatives of the offeror authorized to commit the
 offeror to contractual obligations.
 
-**10.5.5 SECTION 1 – SUPPLIES OR SERVICES AND PRICES (TAB D) **
+### 10.5.5 SECTION 1 – SUPPLIES OR SERVICES AND PRICES (TAB D) 
 
 The offeror shall indicate the price to be charged for each item in
 **Section 1 - Supplies or Services and Prices** rounded to the nearest
 whole dollar. The offeror shall insert not-to-exceed indirect/material
 handling ceiling rates.
 
-**10.5.6 PRICE SUPPORTING DOCUMENTATION (TAB E)**
+### 10.5.6 PRICE SUPPORTING DOCUMENTATION (TAB E)
 
 The price supporting documentation is required to enable the Government
 to perform price analysis. The offeror shall provide the following price
@@ -1371,7 +1358,7 @@ supporting documentation:
 The offeror shall identify the discounts offered by the offeror and/or
 the offeror’s teaming partner(s) or subcontractor(s).
 
-**10.6 SUBMISSION OF THE WRITTEN TECHNICAL QUOTE **
+## 10.6 SUBMISSION OF THE WRITTEN TECHNICAL QUOTE 
 
 The Written Technical Quote and shall contain the following:
 
@@ -1387,13 +1374,13 @@ The Written Technical Quote and shall contain the following:
 
 6.  Performance Work Statement
 
-**10.6.1 PASS/FAIL ELEMENTS **
+### 10.6.1 PASS/FAIL ELEMENTS 
 
 A failure on the Pass/Fail criteria will make the quote ineligible for
 award, with no further evaluation of the Technical and Price quote
 accomplished by the Government. The offeror shall provide:
 
-**10.6.1.1 CORPORATE EXPERIENCE (PASS/FAIL) **
+#### 10.6.1.1 CORPORATE EXPERIENCE (PASS/FAIL) 
 
 The URLs of two source code repositories must be submitted for
 evaluation. Each repository must be related to work performed by the
@@ -1432,18 +1419,18 @@ conditions to pass. The repository:
     demonstrate security practices that are appropriate for source code
     release (i.e. no hard-coded passwords).
 
-**10.6.1.2 508 COMPLIANCE (PASS/FAIL) **
+#### 10.6.1.2 508 COMPLIANCE (PASS/FAIL) 
 
 The offeror’s written quote shall include a statement indicating its
 capability to comply with Section 508 requirements throughout its
 performance of this TO in compliance with Section 6.
 
-**10.6.2 TECHNICAL EVALUATION FACTORS**
+### 10.6.2 TECHNICAL EVALUATION FACTORS
 
 Each offeror shall submit all information described in the following
 paragraphs. Page limits are indicated at the end of each factor.
 
-**10.6.2.1 FACTOR 1 - KEY PERSONNEL**
+#### 10.6.2.1 FACTOR 1 - KEY PERSONNEL
 
 The offeror shall indicate each Key Person proposed relating the
 specialized experience identified in Section 6.1 of this RFQ and the
@@ -1455,7 +1442,7 @@ be available to begin work on the Project Start date.
 
 Each response must be limited to 100 words for each key personnel.
 
-**10.6.2.2 FACTOR 2 - STAFFING PLAN**
+#### 10.6.2.2 FACTOR 2 - STAFFING PLAN
 
 The submission shall contain all proposed individuals that will be
 working on this effort. All Key Personnel proposed in the Project
@@ -1483,8 +1470,7 @@ Government’s objectives and requirements.
 
 The response must be limited to 400 words.
 
-**10.6.2.3 FACTOR 3 - <span class="smallcaps">USABILITY RESEARCH
-APPROACH</span>**
+#### 10.6.2.3 FACTOR 3 - USABILITY RESEARCH APPROACH
 
 Background investigations in the federal government involve collecting
 personal information amidst a cross-section of global demographics,
@@ -1497,10 +1483,10 @@ testing in this environment. To understand how you would approach this
 work, a prompt that reflects the nature of this project has been
 provided below:
 
-**Outline a research plan to understand the user experience of
-foreign-born applicants reporting their credit history for background
-investigations and how applicants would communicate with remote agency
-security staff to address follow-up questions from the investigation. **
+> Outline a research plan to understand the user experience of
+> foreign-born applicants reporting their credit history for background
+> investigations and how applicants would communicate with remote agency
+> security staff to address follow-up questions from the investigation.
 
 The offeror shall submit the following:
 
@@ -1515,8 +1501,7 @@ The offeror shall submit the following:
 
 The response must be limited to 400 words.
 
-**10.6.2.4 FACTOR 4 - <span class="smallcaps">PERFORMANCE WORK
-STATEMENT</span>**
+#### 10.6.2.4 FACTOR 4 - PERFORMANCE WORK STATEMENT
 
 Offerors should describe their understanding of the performance
 objectives for the requirements (described in full in Section 2). The
@@ -1533,7 +1518,7 @@ The offeror shall discuss the following elements:
 
 The response must be limited to 750 words.
 
-**10.7 ORAL INTERVIEW**
+## 10.7 ORAL INTERVIEW
 
 Each offeror will be provided the questions, via e-mail, approximately
 60 minutes prior to their Oral Presentation. The Government is much more
@@ -1604,7 +1589,7 @@ competitive range, conduct discussions, and request quote revisions.
 Offerors will not be able to use or present slides, graphs, charts or
 any other written presentation materials, including handouts.
 
-##### **Content**
+##### Content
 
 After introductions, the offeror will be given up to 30 minutes to
 present. The Contracting Officer will strictly enforce this time limit
@@ -1623,7 +1608,7 @@ allocate 10 minutes that will serve to clarify any information that was
 presented. If the Government has no follow-up questions with a
 particular offeror, then this part of the session will not take place.
 
-**Location**
+##### Location
 
 Oral Presentations will take place via video chat, though audio may be
 substituted as needed. The Government will coordinate and set up the
@@ -1631,14 +1616,14 @@ meeting space accordingly (providing dial-in information or links using
 a tool such as Zoom or Appear.in).The offeror may **not** record or
 transmit any of the Q\&A session.
 
-##### **Date and Time**
+##### Date and Time
 
 The Government will schedule the date and time of the oral presentations
 with each Offeror that progress to Phase 4 of the evaluation process.
 The Government reserves the right to reschedule any Offeror’s oral
 presentations date at the discretion of the contracting officer.
 
-##### **Participants**
+##### Participants
 
 Participation in the oral presentations shall include the proposed Key
 Personnel. The Government is most interested in hearing from staff who
@@ -1652,7 +1637,7 @@ non-technical personnel may not need to attend. After the presentations,
 Offerors must email the meeting organizers the names of everyone who
 attended.
 
-**Videotaping and/or Voice Recording**
+##### Videotaping and/or Voice Recording
 
 The Government may elect to videotape and/or voice record the oral
 presentation session at its discretion and is its exclusive right and
@@ -1662,7 +1647,7 @@ making its own recording (in any way or by any method) of the oral
 presentation session. Contractors agree to this when they participate in
 this RFQ.
 
-**10.8 SUBMISSION OF QUESTIONS**
+## 10.8 SUBMISSION OF QUESTIONS
 
 Offerors are requested to submit questions on the
 [<span class="underline">GitHub
@@ -1680,7 +1665,7 @@ the cut-off date will not be considered.**
 All questions asked in the public GitHub repository will be answered
 promptly in the public GitHub repository.
 
-**10.9 DELIVERY INSTRUCTIONS**
+## 10.9 DELIVERY INSTRUCTIONS
 
 **The offeror shall deliver written technical quote via this**
 **[<span class="underline">Google Form
@@ -1693,7 +1678,7 @@ are enforced. **The written price quote shall be submitted via email to
 All responses to the solicitation shall be received by August 27, 2018
 at 1:00 PM EST.
 
-**11.1 METHOD OF AWARD**
+## 11.1 METHOD OF AWARD
 
 The Government anticipates awarding a TO to the offeror whose quote is
 the most advantageous to the Government, price and other factors
@@ -1726,13 +1711,13 @@ required by this solicitation package (including Attachments). The
 penalty for making false statements in quotes is prescribed in 18 U.S.C.
 1001.
 
-**11.2 EXPLANATION FOR BASIS OF AWARD**
+## 11.2 EXPLANATION FOR BASIS OF AWARD
 
 This award will be made under FAR 8.4; formal debriefings will not be
 conducted. In accordance with 8.405-2(d), a brief explanation of the
 basis for the award decision shall be provided upon request.
 
-**11.3 PRICE QUOTE EVALUATION**
+## 11.3 PRICE QUOTE EVALUATION
 
 The offeror’s price quote (TABs D & E) will be evaluated to assess for
 price reasonableness. The Government will assess the level of effort and
@@ -1754,19 +1739,19 @@ evaluated to ensure that the option is available for the unilateral
 exercise of the Government should an extension become necessary. The
 offeror shall not propose a price for the six-month extension.
 
-**11.4 ORGANIZATIONAL CONFLICT OF INTEREST **
+## 11.4 ORGANIZATIONAL CONFLICT OF INTEREST
 
 Tab A will be evaluated to assess whether or not an actual or potential
 OCI exists as defined by FAR Part 9.5. If an actual or potential OCI is
 identified that cannot be mitigated, avoided, or resolved in accordance
 with FAR Part 9.5, that offeror may be ineligible for award.
 
-**11.5 CONTRACT REGISTRATION**
+## 11.5 CONTRACT REGISTRATION
 
 Any quote received from a contractor not registered in ITSS (Tab B) will
 be rejected and will be ineligible for award.
 
-**11.6 PASS/FAIL ELEMENTS**
+## 11.6 PASS/FAIL ELEMENTS
 
 The Government will evaluate the following pass/fail elements. **A
 failure on the Pass/Fail criteria will make the quote ineligible for
@@ -1775,17 +1760,17 @@ conducted by the Government.**
 
 The following will be evaluated on a Pass/Fail basis:
 
-**11.6.1 CORPORATE EXPERIENCE **
+### 11.6.1 CORPORATE EXPERIENCE
 
 The Government will reject any quote that does not include code
 repositories that meet 4 of the 9 conditions.
 
-**11.6.2 508 COMPLIANCE STATEMENT **
+### 11.6.2 508 COMPLIANCE STATEMENT
 
 The Government will reject any quote that does not provide a Section 508
 Compliance Statement.
 
-**11.7 TECHNICAL QUOTE EVALUATION **
+## 11.7 TECHNICAL QUOTE EVALUATION 
 
 The technical quote evaluation factors are listed in descending order of
 importance. All four technical factors combined are significantly more
@@ -1840,9 +1825,9 @@ c. Comprehensive – Encompasses all aspects of the approach. Complete.
 d. Efficient – Capable of producing results without waste of materials,
 time, or effort.
 
-**11.8 EVALUATION FACTORS**
+## 11.8 EVALUATION FACTORS
 
-**11.8.1 FACTOR 1- KEY PERSONNEL**
+### 11.8.1 FACTOR 1- KEY PERSONNEL
 
 The offeror’s Key Personnel will be evaluated based on:
 
@@ -1853,7 +1838,7 @@ The offeror’s Key Personnel will be evaluated based on:
 2.  The degree to which the Key Personnel meet or exceed the minimum
     qualifications and experience in Section 6.1.
 
-**11.8.2 FACTOR 2 - STAFFING PLAN**
+### 11.8.2 FACTOR 2 - STAFFING PLAN
 
 The offeror’s Staffing Plan will be evaluated based on:
 
@@ -1862,21 +1847,21 @@ The offeror’s Staffing Plan will be evaluated based on:
     staffing solution will accomplish the Government’s objectives and
     requirements.
 
-**11.8.3 FACTOR 3 - USABILITY RESEARCH APPROACH**
+### 11.8.3 FACTOR 3 - USABILITY RESEARCH APPROACH
 
 The offeror’s Usability research approach will be evaluated based on:
 
 1.  The degree to which responses are comprehensive and beneficial to
     delivering modern user research practices.
 
-**11.8.4 FACTOR 4 - PERFORMANCE WORK STATEMENT **
+### 11.8.4 FACTOR 4 - PERFORMANCE WORK STATEMENT
 
 The offeror’s PWS will be evaluated based on:
 
 1.  The degree of relevancy and efficiency of the offeror’s approach for
     meeting the objectives and requirements of the RFQ.
 
-**11.8.5 ORAL INTERVIEW**
+### 11.8.5 ORAL INTERVIEW
 
 The oral presentations will be evaluated based on:
 
