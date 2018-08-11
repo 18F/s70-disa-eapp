@@ -57,6 +57,7 @@ CLIN**
 | *Offeror to Populate* |           |                 |
 |                       |           |                 |
 | **TOTAL HOURS**       |           |                 |
+<br>
 
 **TRAVEL and OLM/ODC CLINs**
 
@@ -68,6 +69,7 @@ CLIN**
 
 **TOTAL BASE PERIOD CLINs: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 <br>
+<br>
 
 ### 1.2.2   FIRST OPTION PERIOD:
 
@@ -78,6 +80,7 @@ CLIN**
 | -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | **CLIN** | **Description**                                             | **Total Hours** | **Total NTE Ceiling** |
 | 1001     | Labor for Electronic Application (eApp) requirements in SOO | 1998            |                       |
+<br>
 
 |                       |           |                 |
 | --------------------- | --------- | --------------- |
@@ -85,6 +88,7 @@ CLIN**
 | *Offeror to Populate* |           |                 |
 |                       |           |                 |
 | **TOTAL HOURS**       |           |                 |
+<br>
 
 **TRAVEL and ODC CLINs**
 
@@ -96,6 +100,7 @@ CLIN**
 
 **TOTAL OPTION PERIOD 1 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 <br>
+<br>
 
 ### 1.2.3   SECOND OPTION PERIOD:
 
@@ -106,6 +111,7 @@ CLIN**
 | -------- | ----------------------------------------------------------- | --------------- | --------------------- |
 | **CLIN** | **Description**                                             | **Total Hours** | **Total NTE Ceiling** |
 | 2001     | Labor for Electronic Application (eApp) requirements in SOO | 1998            |                       |
+<br>
 
 |                        |           |                 |
 | ---------------------- | --------- | --------------- |
@@ -113,6 +119,7 @@ CLIN**
 | *Offeror to Populate * |           |                 |
 |                        |           |                 |
 | **TOTAL HOURS**        |           |                 |
+<br>
 
 **TRAVEL and ODC CLINs**
 
@@ -124,8 +131,10 @@ CLIN**
 
 **TOTAL OPTION PERIOD 2 CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 <br>
+<br>
 
 **GRAND TOTAL ALL CLINs: $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+<br>
 <br>
 <br>
 
