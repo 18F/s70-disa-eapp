@@ -1188,80 +1188,57 @@ the appropriate information with its quotation of offer. The
 solicitation provisions and/or contract clauses are available in either
 HTML or PDF format at: <https://www.acquisition.gov/far>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>FAR</strong></p>
-</blockquote></td>
-<td><strong>TITLE</strong></td>
-<td><strong>DATE</strong></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>52.215-1</p>
-</blockquote></td>
-<td>Instructions to Offerors-Competitive Acquisition</td>
-<td>JAN 2004</td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>52.232-38</p>
-</blockquote></td>
-<td>Submission of Electronic Funds Transfer Information with Offer</td>
-<td>JUL 2013</td>
-</tr>
-</tbody>
-</table>
+|       FAR         |               Title                        |   Date  |
+| -------------- | --------------------------------------------------- |---|
+| 52.215-1     | Instructions to Offerors-Competitive Acquisition    |  JAN 2004  |
+| 52.232-38  | Submission of Electronic Funds Transfer Information with Offer  | JUL 2013 |
+
 
 ### 10.1.1 SOLICITATION PROVISIONS PROVIDED IN FULL TEXT
 
 FAR 52.215-20 Requirements for Certified Cost or Pricing Data and Data
 Other Than Certified Cost or Pricing Data – Alternate IV (OCT 2010)
 
-> (a) Submission of certified cost or pricing data is not required.
+a) Submission of certified cost or pricing data is not required.
 
 ## 10.2 GENERAL INSTRUCTIONS
 
-1.  The offeror is expected to examine this entire solicitation document
+a.  The offeror is expected to examine this entire solicitation document
     including the Contract. Failure to do so will be at the offeror’s
     own risk.
 
-2.  The Government may make award based on initial offers received,
+b.  The Government may make award based on initial offers received,
     without discussion of such offers. Quotes shall set forth full,
     accurate, and complete information as required by this solicitation
     package (including Attachments listed in Section 8 – List of
     Attachments). The penalty for making false statements in quotes is
     prescribed in 18 U.S.C. 1001.
 
-3.  An offeror submitting restrictive data will mark it as follows in
+c.  An offeror submitting restrictive data will mark it as follows in
     accordance with the FAR 52.215-1, Instructions to Offerors -
     Competitive Acquisition, which is incorporated by reference. Clause
     52.215-1(e) states: “Restriction on disclosure and use of data.
     Offerors that include in their proposals data that they do not want
     disclosed to the public for any purpose, or used by the Government
     except for evaluation purposes, shall – 
-    1)  Mark the title page with the following legend:
-    This proposal includes data that shall not be disclosed outside the
-Government and shall not be duplicated, used, or disclosed -- in whole
-or in part -- for any purpose other than to evaluate this quote or
-quotation. If, however, a contract is awarded to this offeror as a
-result of -- or in connection with -- the submission of this data, and
-the Government incorporates the quote as part of the award, the
-Government shall have the right to duplicate, use, or disclose the
-data to the extent provided in the resulting contract. This
-restriction does not limit the Government’s right to use information
-contained in this data if it is obtained from another source without
-restriction. The data subject to the restriction is contained in
-sheets \[insert numbers or other identification of sheets\]; and
+            1)  Mark the title page with the following legend:
+                    > This proposal includes data that shall not be disclosed outside the
+                    Government and shall not be duplicated, used, or disclosed -- in whole
+                    or in part -- for any purpose other than to evaluate this quote or
+                    quotation. If, however, a contract is awarded to this offeror as a
+                    result of -- or in connection with -- the submission of this data, and
+                    the Government incorporates the quote as part of the award, the
+                    Government shall have the right to duplicate, use, or disclose the
+                    data to the extent provided in the resulting contract. This
+                    restriction does not limit the Government’s right to use information
+                    contained in this data if it is obtained from another source without
+                    restriction. The data subject to the restriction is contained in
+                    sheets \[insert numbers or other identification of sheets\]; and
+             2)  Mark each sheet of data it wishes to restrict with the following legend:
+                    > Use or disclosure of data contained on this sheet is subject to the
+                    restriction on the title page of this proposal.
 
-2)  Mark each sheet of data it wishes to restrict with the following
-    legend:
-
-Use or disclosure of data contained on this sheet is subject to the
-restriction on the title page of this proposal.
-
-4.  The Government assumes no liability for disclosure or use of
+d.  The Government assumes no liability for disclosure or use of
     unmarked data and may use or disclose the data for any purpose.
     Unless restricted, information submitted in response to this request
     may become subject to disclosure to the public pursuant to the
