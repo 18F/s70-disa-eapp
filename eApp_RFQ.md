@@ -1503,6 +1503,7 @@ interested in the informational content of the offeror’s answers rather
 than the particular style or technique used in delivering the answers.
 
 Schedule and Agenda:
+
 |        Agenda Item        |     Time Allocated                       |
 | -------------- | --------------------------------------------------- |
 | Government Provides Questions to Offeror | Approximately 60 Minutes Prior to Oral Presentation (via e-mail)|
