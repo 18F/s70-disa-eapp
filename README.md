@@ -22,13 +22,13 @@ The primary goals are to enhance eApp to support the full suite of functionality
 
 ## Table of contents
 
-* [Submission Instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
+* [Instructions](https://github.com/18F/s70-disa-eapp/blob/master/README.md#instructions)
   * [Deadline overview](https://github.com/18F/s70-disa-eapp/blob/master/README.md#deadlines)
-  * [Submitting offers](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
-  * [Written technical response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
-  * [Price list instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
   * [Submitting questions](https://github.com/18F/s70-disa-eapp/blob/master/README.md#deadlines)
-  * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
+  * [Delivery instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
+   * [Written technical response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
+    * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
+   * [Price list instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
 * [Solicitation Documents (Summarized index)]()
   * [RFQ](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md)
     * [Background](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#22-background)
