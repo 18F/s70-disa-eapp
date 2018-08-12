@@ -25,7 +25,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
 * [Submission Instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
   * [Deadline overview](https://github.com/18F/s70-disa-eapp/blob/master/README.md#deadlines)
   * [Submitting offers](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
-  * [Written response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
+  * [Written technical response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
   * [Price list instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
   * [Submitting questions](https://github.com/18F/s70-disa-eapp/blob/master/README.md#deadlines)
   * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
@@ -47,9 +47,9 @@ The primary goals are to enhance eApp to support the full suite of functionality
 ## Instructions
 
 #### Submitting offers
-Written responses should be submitted through this [Google form.](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
+* Written technical responses should be submitted through this [Google form.](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
 
-Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov). Additional details can be found in [Section 1.2: Services and Prices](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices).
+* Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov). Additional details can be found in [Section 1.2: Services and Prices](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices).
 
 #### Deadlines
 * Please submit any questions as GitHub issues on this repository using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) found in this repository by August 20, 2018 at 3:00PM EST.
