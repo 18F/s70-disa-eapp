@@ -25,7 +25,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
 * [Instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
   * [Submitting offers](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
     * [Written response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
-    * [Pricing submission instructions]()
+    * [Pricing submission instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
   * [Deadlines]()
     * [Submitting questions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#108-submission-of-questions)
     * [Staffing Plan]()
