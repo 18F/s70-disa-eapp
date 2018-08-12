@@ -327,7 +327,7 @@ production. New stories will be discussed as part of sprint planning and
 backlog refinement. The Product Owner may also choose to close stories
 before they are implemented.
 
-**Product Requirements**
+#### Product Requirements
 
   - All software code delivered under this order shall comply with the
     [<span class="underline">GSA/18F open source
@@ -381,7 +381,7 @@ before they are implemented.
   - **Testing** More comprehensive, automated GUI test suites with
     additional browser testing, including tablets and mobiles.
 
-**Process Requirements**
+#### Process Requirements
 
   - Work will be conducted in two- or three-week sprints and reviewed at
     the end of each sprint for acceptability per the Quality Assurance
