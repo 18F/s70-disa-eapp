@@ -29,7 +29,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
     * [Written technical response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
       * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
     * [Price list instructions***](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
-* [Solicitation Documents (Summarized index)]()
+* [Solicitation Documents (Summarized index)](https://github.com/18F/s70-disa-eapp/)
   * [RFQ](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md)
     * [Background](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#22-background)
     * [Objectives](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#23-objectives)
