@@ -1086,7 +1086,7 @@ requirements.
 Contractor costs for travel will be reimbursed at the limits set in the
 following regulations (see FAR 31.205-46):
 
-1.  > FTR - prescribed by the GSA, for travel in the contiguous U.S.
+1.  FTR - prescribed by the GSA, for travel in the contiguous U.S.
 
 ### 6.9.1 TRAVEL AUTHORIZATION REQUESTS (TAR)
 
