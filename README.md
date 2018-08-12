@@ -22,12 +22,13 @@ The primary goals are to enhance eApp to support the full suite of functionality
 
 ## Table of contents
 
-* [Instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
+* [Submission Instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
+  * [Deadline overview](https://github.com/18F/s70-disa-eapp/blob/master/README.md#deadlines)
   * [Submitting offers](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
-    * [Written response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
-    * [Price list instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
-    * [Submitting questions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#108-submission-of-questions)
-    * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
+  * [Written response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
+  * [Price list instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
+  * [Submitting questions](https://github.com/18F/s70-disa-eapp/blob/master/README.md#deadlines)
+  * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
 * [Solicitation Documents (Summarized index)]()
   * [RFQ](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md)
     * [Background](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#22-background)
@@ -37,10 +38,10 @@ The primary goals are to enhance eApp to support the full suite of functionality
     * [Key personnel descriptions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#61-key-personnel)
     * [Written technical approach](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#106-submission-of-the-written-technical-quote)
     * [Method of award](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#111-method-of-award)
-  * [QASP](https://github.com/18F/s70-disa-eapp/blob/master/docs/QASP.md)
-  * [SF-1449](https://github.com/18F/s70-disa-eapp/blob/master/docs/)
-  * [Appendix](https://github.com/18F/s70-disa-eapp/blob/master/docs/)
-  * [Hyperlinks](https://github.com/18F/s70-disa-eapp/blob/master/docs/)
+  * [QASP](https://github.com/18F/s70-disa-eapp/blob/master/QASP.md)
+  * [SF-1449](https://github.com/18F/s70-disa-eapp/blob/master/Attachment%20A%20-%20%20RFQ%20ID11180065%20-%20SF1449.pdf)
+  * [User story appendix](https://github.com/18F/s70-disa-eapp/blob/master/eApp_user_story_appendix.md)
+  * [Hyperlinks](https://github.com/18F/s70-disa-eapp/blob/master/eApp_hyperlinks.md)
 
 
 ## Instructions
@@ -48,16 +49,14 @@ The primary goals are to enhance eApp to support the full suite of functionality
 #### Submitting offers
 Written responses should be submitted through this [Google form.](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
 
-Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov). Additional details can be found in [Section [x]](section)
+Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov). Additional details can be found in [Section 1.2: Services and Prices](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices).
 
 #### Deadlines
-Please submit any questions as GitHub issues using the `ISSUE_TEMPLATE` in this repository by August 20, 2018 at 3:00PM EST.
+* Please submit any questions as GitHub issues using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) found in this repository by August 20, 2018 at 3:00PM EST.
 
-**Offers are due by August 27, 2018 at 3pm EST.**
-
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
+* **Offers are due by August 27, 2018 at 3pm EST.**
+<br>
+<br>
 
 
 ## Public domain
