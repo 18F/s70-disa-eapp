@@ -38,7 +38,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
     * [Key personnel descriptions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#61key-personnel)
     * [Written technical approach](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#106-submission-of-the-written-technical-quote)
     * [Method of award](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#111-method-of-award)
-  * [QASP](https://github.com/18F/s70-disa-eapp/blob/master/QASP.md)
+  * [QASP](https://github.com/18F/s70-disa-eapp/blob/master/eApp_QASP.md)
   * [SF-1449](https://github.com/18F/s70-disa-eapp/blob/master/Attachment%20A%20-%20%20RFQ%20ID11180065%20-%20SF1449.pdf)
   * [User story appendix](https://github.com/18F/s70-disa-eapp/blob/master/eApp_user_story_appendix.md)
   * [Hyperlinks](https://github.com/18F/s70-disa-eapp/blob/master/eApp_hyperlinks.md)
