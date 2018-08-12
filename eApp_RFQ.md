@@ -1702,7 +1702,7 @@ promptly in the public GitHub repository.
 
 **The offeror shall deliver written technical quote via this**
 **[<span class="underline">Google Form
-f</span>](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)or
+</span>](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)for
 submissions**. Please note that each Offeror can enter only one
 submission (no alternate quotes will be allowed) and character limits
 are enforced. 
