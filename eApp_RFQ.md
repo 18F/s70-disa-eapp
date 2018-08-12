@@ -1705,7 +1705,9 @@ promptly in the public GitHub repository.
 f</span>](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)or
 submissions**. Please note that each Offeror can enter only one
 submission (no alternate quotes will be allowed) and character limits
-are enforced. **The written price quote shall be submitted via email to
+are enforced. 
+
+**The written price quote shall be submitted via email to
 <daniel.r.miller@gsa.gov> and kehinde.adesina@gsa.gov.**
 
 All responses to the solicitation shall be received by August 27, 2018
