@@ -52,7 +52,7 @@ Written responses should be submitted through this [Google form.](https://docs.g
 Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov). Additional details can be found in [Section 1.2: Services and Prices](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices).
 
 #### Deadlines
-* Please submit any questions as GitHub issues using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) found in this repository by August 20, 2018 at 3:00PM EST.
+* Please submit any questions as GitHub issues on this repository using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) found in this repository by August 20, 2018 at 3:00PM EST.
 
 * **Offers are due by August 27, 2018 at 3pm EST.**
 <br>
