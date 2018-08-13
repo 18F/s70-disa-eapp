@@ -52,7 +52,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
 * Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov) and Kehinde Adesina <kehinde.adesina@gsa.gov>. Additional details can be found in [Section 10.5: Submission of the written price quote](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#105-submission-of-the-written-price-quote).
 
 #### Deadlines
-* Please submit any questions as GitHub issues on this repository using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) found in this repository by August 20, 2018 at 1:00PM EST.
+* Please submit any questions as GitHub [issues](https://github.com/18F/s70-disa-eapp/issues) on this repository using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) by August 20, 2018 at 1:00PM EST.
 
 * **Offers are due by August 27, 2018 at 1pm EST.**
 <br>
