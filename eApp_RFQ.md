@@ -165,32 +165,25 @@ the Contracting Officer (CO) and added to the TO by modification.
 <br>
 
 ## 2.1 PURPOSE 
+This Statement of Objectives (SOO) describes the goals that GSA expects to achieve with
+regards to expanding eApp to replace applicant-facing eQIP functionality and introduce new
+capabilities in the background investigation process. This task order seeks to secure a contractor
+to assist the NBIS and GSA team in modifying the current codebase to increase functionality
+that:
 
-This Statement of Objectives (SOO) describes the goals that GSA expects
-to achieve with regards to expanding eApp to fully replace
-applicant-facing eQIP functionality. This task order seeks to secure a
-contractor to assist the NBIS and GSA team in modifying the current
-codebase and increasing functionality to:
+* Facilitates the dynamic creation of security questionnaire forms
 
-  - Facilitate the dynamic creation of security questionnaire forms
+* Improves validation rules for applicant interactions and agency flags
 
-  - Improve validation rules for applicant interactions and agency flags
+* Enables communication between agency security personnel and applicants
 
-  - Enable communication between agency security personnel and
-    applicants
+* Employs configuration to build new form types and validation rules in addition to integrating
+existing standard forms (including but not limited to [<span class="underline">NBIB INV-15 Section 5.0)</span>](https://nbib.opm.gov/hr-security-personnel/requesting-opm-personnel-investigations/requesting-the-investigation/#5.1)
 
-  - Configurable system that enables the capture of new form types and
-    validation rules in addition to integrating existing standard forms
-    (including but not limited to [<span class="underline">NBIB INV-15
-    Section
-    5.0)</span>](https://nbib.opm.gov/hr-security-personnel/requesting-opm-personnel-investigations/requesting-the-investigation/#5.1)
-
-The primary goals are to enhance eApp to support the full suite of
-functionality required for the end-user application process. Particular
-characteristics of this work include: maintaining user-centric design,
-enhancing security and privacy, adding integration points with related
-systems, and adding support for operational, maintenance, and
-sustainment activities.
+The primary goals are to enhance eApp to support the full suite of functionality required for the
+end-user application process. Particular characteristics of this work include: maintaining user-
+centric design, enhancing security and privacy, adding integration points with related systems,
+and adding support for operational, maintenance, and sustainment activities.
 <br>
 <br>
 
@@ -236,13 +229,12 @@ After applicants make edits and submit for final review the agency
 releases the form’s data and associated administrative data to the
 relevant Investigative Service Provider (ISP.)
 
-The Electronic Application (eApp) is a new front-end/user interface
-prototype of e-QIP that maintains the existing business functionality.
-It is the user-facing front end for submission of security
-questionnaires for the Defense Information System Agency (DISA) National
-Background Investigative Services (NBIS) common platform for conducting
-security investigations shared by NBIB and the Department of Defense
-(DoD) Defense Security Services (DSS).
+The Electronic Application (eApp) is a new platform that maintains the existing role of applicant
+facing eQIP while introducing new functionality including advanced form validation. It is the
+user-facing front end for submission of security questionnaires for the Defense Information
+System Agency (DISA) National Background Investigative Services (NBIS) common platform
+for conducting security investigations shared by NBIB and the Department of Defense (DoD)
+Defense Security Services (DSS).
 
 NBIS is responsible for creating a new platform that would replace eQIP
 and other existing OPM systems. GSA/18F has worked closely with OPM and
