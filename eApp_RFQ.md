@@ -168,7 +168,7 @@ the Contracting Officer (CO) and added to the TO by modification.
 This Statement of Objectives (SOO) describes the goals that GSA expects to achieve with
 regards to expanding eApp to replace applicant-facing eQIP functionality and introduce new
 capabilities in the background investigation process. This task order seeks to secure a contractor
-to assist the NBIS and GSA team in modifying the (current codebase)[https://github.com/18F/e-QIP-prototype] to increase functionality
+to assist the NBIS and GSA team in modifying the [current codebase](https://github.com/18F/e-QIP-prototype) to increase functionality
 that:
 
 * Facilitates the dynamic creation of security questionnaire forms
