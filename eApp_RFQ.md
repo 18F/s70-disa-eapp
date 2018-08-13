@@ -1395,7 +1395,7 @@ https://portal.fas.gsa.gov/assist-web/registration/contractor/search
 
 ### 10.5.4 REQUEST FOR QUOTATIONS (SF 1449) (TAB C)
 
-When completed and signed by the offeror, Standard Form (SF) 1449,
+When completed and signed by the offeror, (Standard Form (SF) 1449)[https://github.com/18F/s70-disa-eapp/blob/master/Attachment%20A%20-%20%20RFQ%20ID11180065%20-%20SF1449.pdf],
 “Request for Quotations,” constitutes the offeror’s acceptance of the
 terms and conditions of the proposed TO. Therefore, the form must be
 executed by representatives of the offeror authorized to commit the
