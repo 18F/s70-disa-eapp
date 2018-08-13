@@ -1689,7 +1689,7 @@ and firm they represent, the part(s) of the solicitation for question or
 comment grouped with reference to the particular Section/Subsection
 number, and the question or comment itself.
 
-Questions must be received before August 17, 2018 at 1:00 PM EST and
+Questions must be received before August 20, 2018 at 1:00 PM EST and
 must be submitted in the GitHub repository. **Questions submitted after
 the cut-off date will not be considered.**
 
