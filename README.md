@@ -28,7 +28,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
   * [Delivery instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#109-delivery-instructions)
     * [Written technical response form](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
       * [Staffing plan template](https://github.com/18F/s70-disa-eapp/blob/master/staffing_plan_template.xlsx)
-    * [Price list instructions***](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices)
+    * [Price list instructions](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#105-submission-of-the-written-price-quote)
 * [Solicitation Documents (Summarized index)](https://github.com/18F/s70-disa-eapp/)
   * [RFQ](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md)
     * [Background](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#22-background)
@@ -49,7 +49,7 @@ The primary goals are to enhance eApp to support the full suite of functionality
 #### Submitting offers
 * Written technical responses should be submitted through this [Google form.](https://docs.google.com/forms/d/e/1FAIpQLScoBipqNlJT8lON3QUhR_zVINasbmvubNBxZXRLkh-bQBkc7A/viewform?usp=sf_link)
 
-* Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov) and Kehinde Adesina <kehinde.adesina@gsa.gov>. Additional details can be found in [Section 1.2: Services and Prices**](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#12-services-and-prices).
+* Pricing submissions should be sent directly to Daniel Miller [daniel.r.miller@gsa.gov](mailto:daniel.r.miller@gsa.gov) and Kehinde Adesina <kehinde.adesina@gsa.gov>. Additional details can be found in [Section 10.5: Submission of the written price quote](https://github.com/18F/s70-disa-eapp/blob/master/eApp_RFQ.md#105-submission-of-the-written-price-quote).
 
 #### Deadlines
 * Please submit any questions as GitHub issues on this repository using the [issue template](https://github.com/18F/s70-disa-eapp/blob/master/ISSUE_TEMPLATE.md) found in this repository by August 20, 2018 at 3:00PM EST.
