@@ -1159,6 +1159,10 @@ guidance is not available, the contractor shall attach or include the
 license within the work itself. Examples of this include code comments
 at the beginning of a file or contained in a license file within a
 software repository.
+
+## 6.12 US CITIZENSHIP
+In order to access the DISA NITSL development environment referenced in Sections 4.4 and 6.2,
+all contractor personnel that perform work under this task order are required to be US citizens.
 <br>
 <br>
 
